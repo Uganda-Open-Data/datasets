@@ -1,0 +1,37 @@
+name: Correction
+description: Something in a dataset is wrong or missing.
+labels: [correction]
+body:
+  - type: dropdown
+    id: dataset
+    attributes:
+      label: Dataset
+      options:
+        - registration-plates
+    validations:
+      required: true
+  - type: input
+    id: row
+    attributes:
+      label: Row
+      description: The row that is wrong, e.g. its code or name.
+      placeholder: UG 38
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+    validations:
+      required: true
+  - type: input
+    id: correct
+    attributes:
+      label: Correct value
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: A public link that shows the correct value.
+    validations:
+      required: true

@@ -1,0 +1,2 @@
+frictionless==5.18.0
+pytest==8.3.3

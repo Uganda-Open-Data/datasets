@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below, and credit the sources listed in each dataset."
+title: "Uganda Open Data datasets"
+type: dataset
+authors:
+  - name: "Uganda Open Data contributors"
+license: CC-BY-4.0
+repository-code: "https://github.com/Uganda-Open-Data/datasets"
+keywords:
+  - Uganda
+  - open data

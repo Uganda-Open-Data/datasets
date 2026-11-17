@@ -1,0 +1,48 @@
+name: New dataset
+description: Propose a dataset to add.
+labels: [new dataset]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: Health facilities of Uganda
+    validations:
+      required: true
+  - type: input
+    id: publisher
+    attributes:
+      label: Publisher
+      description: Who publishes the original data.
+      placeholder: Ministry of Health
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link
+    validations:
+      required: true
+  - type: input
+    id: licence
+    attributes:
+      label: Licence or terms of the source
+      description: Link to the terms, or say if none are given.
+    validations:
+      required: true
+  - type: textarea
+    id: fields
+    attributes:
+      label: Columns
+      description: The columns you expect, one per line.
+  - type: input
+    id: frequency
+    attributes:
+      label: How often the source is updated
+  - type: checkboxes
+    id: personal-data
+    attributes:
+      label: Personal data
+      options:
+        - label: The data is about public bodies or places and holds no personal data.
+          required: true
