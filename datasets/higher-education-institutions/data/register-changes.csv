@@ -1,0 +1,175 @@
+id,register,subject,change,education_institution_id,education_programme_id,name,observed_on,last_seen_on
+4209,nche,institution,added,979,,"Africa University of Science and Management",2026-11-09,
+4210,nche,institution,added,980,,"Archbishop Janan Luwum Theological College",2026-11-09,
+4211,nche,institution,added,981,,"Buloba Teacher Training Institute",2026-11-09,
+4212,nche,institution,added,982,,"Cornerstone University",2026-11-09,
+4213,nche,institution,added,983,,"Divine International University",2026-11-09,
+4214,nche,institution,added,984,,"Equator University of Science and Technology",2026-11-09,
+4215,nche,institution,added,985,,"Jeph International University",2026-11-09,
+4216,nche,institution,added,986,,"Nile University",2026-11-09,
+4217,nche,institution,added,987,,"St. John Baptist Gaaba Training Institute",2026-11-09,
+4218,nche,institution,added,988,,"St. Paul's Teacher's Institute, Nazigo",2026-11-09,
+4219,nche,institution,added,989,,"Terebinth Bible College",2026-11-09,
+4220,nche,institution,added,990,,"University of World Mission Frontiers",2026-11-09,
+4221,nche,institution,added,991,,"Institute of Certified Public Accountants -Uganda",2026-11-09,
+4222,nche,institution,added,992,,"Busoga University Project-Public",2026-11-09,
+4223,nche,institution,added,993,,"St. Peters University, Kampala Campus",2026-11-09,
+4224,nche,institution,added,994,,"Ernest Cook Ultrasound Research and Education Institute (Ecurei)",2026-11-09,
+4225,nche,institution,added,995,,"Uganda Technology and Management University (UTAMU), Kungu Campus",2026-11-09,
+4226,nche,institution,added,996,,"Afrohun One Health Academy",2026-11-09,
+4227,nche,institution,added,997,,"National Defence College Jinja",2026-11-09,
+4228,nche,institution,added,998,,"Great Lakes Industrial Institute",2026-11-09,
+4229,nche,institution,added,999,,"AICM College of Science and Technology",2026-11-09,
+4230,nche,institution,added,1000,,"Institute of Agriculture, Business and Technology (Agributec)",2026-11-09,
+4231,nche,institution,added,1001,,"St Francis College of Health Sciences",2026-11-09,
+4232,nche,institution,added,1002,,"Institute of Leadership – Uganda",2026-11-09,
+4233,nche,institution,added,1003,,"Bishop Stensera Vocational Training College",2026-11-09,
+4234,nche,institution,added,1004,,"Police Training School Kabalye - Masindi",2026-11-09,
+4235,nche,institution,added,1005,,"Mengo Technical Institute",2026-11-09,
+4236,nche,institution,added,1006,,"Uganda Martyrs University- Queen of Apostles Philosophy Jinja",2026-11-09,
+4237,nche,institution,added,1007,,"Uganda Martyrs University -Queen of Apostles Jinja",2026-11-09,
+4238,nche,institution,added,1008,,"Cavendish University Uganda (Mukono Campus)",2026-11-09,
+4239,nche,institution,added,1009,,"Kabale University, Rukungiri Campus",2026-11-09,
+4240,nche,institution,added,1010,,"Kampala University (Jinja Campus)",2026-11-09,
+4241,nche,institution,added,1011,,"Uganda Pentecostal University, Kampala",2026-11-09,
+4242,nche,institution,dropped,2,,"Ankole Western Institute of Science and Technology",2026-11-09,2025-04-12
+4243,nche,institution,dropped,6,,"Uganda Technical College, Kyema,",2026-11-09,2025-04-12
+4244,nche,institution,dropped,10,,"Makerere University Business School, Mbarara",2026-11-09,2025-04-12
+4245,nche,institution,dropped,11,,"Mbarara Institute for Social Development",2026-11-09,2025-04-12
+4246,nche,institution,dropped,13,,"Development Studies Centre (DSC)",2026-11-09,2025-04-12
+4247,nche,institution,dropped,14,,"Rubindi Vocational Institute",2026-11-09,2025-04-12
+4248,nche,institution,dropped,15,,"Nyamitanga College of Business Studies",2026-11-09,2025-04-12
+4249,nche,institution,dropped,20,,"Kyera Agricultural Training College",2026-11-09,2025-04-12
+4250,nche,institution,dropped,22,,"Makerere College of Business & Computer Studies",2026-11-09,2025-04-12
+4251,nche,institution,dropped,23,,"Karoli Lwanga Institute of Health Sciences-Nyakibale",2026-11-09,2025-04-12
+4252,nche,institution,dropped,24,,"Mutolere School of Nursing and Midwifery",2026-11-09,2025-04-12
+4253,nche,institution,dropped,29,,"Uganda Christian University , Kagando University College",2026-11-09,2025-04-12
+4254,nche,institution,dropped,34,,"Kigumba Business and Vocational Institute",2026-11-09,2025-04-12
+4255,nche,institution,dropped,35,,"Uganda Martyrs University, Kabale Campus",2026-11-09,2025-04-12
+4256,nche,institution,dropped,41,,"Fortportal College of Health Sciences",2026-11-09,2025-04-12
+4257,nche,institution,dropped,42,,"Uganda Technical College, Kichwamba",2026-11-09,2025-04-12
+4258,nche,institution,dropped,50,,"Uganda Technical College, Bushenyi",2026-11-09,2025-04-12
+4259,nche,institution,dropped,52,,"St. Simon Peter’s Vocational Training College",2026-11-09,2025-04-12
+4260,nche,institution,dropped,53,,"Ibanda School of Midwifery and Nursing",2026-11-09,2025-04-12
+4261,nche,institution,dropped,57,,"Bishop Barham University College (Constituent College of Uganda Christian University)",2026-11-09,2025-04-12
+4262,nche,institution,dropped,58,,"Kabale Institute of Health Sciences",2026-11-09,2025-04-12
+4263,nche,institution,dropped,60,,"Uganda National Institute for Teacher Education, Kabale Campus",2026-11-09,2025-04-12
+4264,nche,institution,dropped,63,,"Daniel Comboni Technical College",2026-11-09,2025-04-12
+4265,nche,institution,dropped,64,,"Uganda National Institute for Teacher Education, Unyama Campus",2026-11-09,2025-04-12
+4266,nche,institution,dropped,65,,"Gulu College of Health Sciences",2026-11-09,2025-04-12
+4267,nche,institution,dropped,66,,"Northern Institute of Business Studies (NIBS)",2026-11-09,2025-04-12
+4268,nche,institution,dropped,67,,"Gulu Institute of Health Sciences",2026-11-09,2025-04-12
+4269,nche,institution,dropped,68,,"Kitgum Business Institute",2026-11-09,2025-04-12
+4270,nche,institution,dropped,69,,"Uganda Technical College, Lira",2026-11-09,2025-04-12
+4271,nche,institution,dropped,70,,"Fountainhead Institute of Management and Technology",2026-11-09,2025-04-12
+4272,nche,institution,dropped,71,,"Uganda Martyrs University, Ngetta Campus",2026-11-09,2025-04-12
+4273,nche,institution,dropped,76,,"Human Technical & Business College",2026-11-09,2025-04-12
+4274,nche,institution,dropped,79,,"St. Kizito Hospital Matany School of Nursing and Midwifery",2026-11-09,2025-04-12
+4275,nche,institution,dropped,81,,"Islamic University in Uganda, Arua Campus",2026-11-09,2025-04-12
+4276,nche,institution,dropped,83,,"St. Anthony Counseling, Training and Skills Development Institute- Gulu Archdiocese (Formerly CARITAS Counseling and Training Institute)",2026-11-09,2025-04-12
+4277,nche,institution,dropped,86,,"St. Mary’s Hospital Lacor Health Training Institute",2026-11-09,2025-04-12
+4278,nche,institution,dropped,90,,"Makerere University Business School, Arua Campus",2026-11-09,2025-04-12
+4279,nche,institution,dropped,91,,"Uganda Christian University, Arua Campus",2026-11-09,2025-04-12
+4280,nche,institution,dropped,92,,"Nile University (NiU)",2026-11-09,2025-04-12
+4281,nche,institution,dropped,93,,"Psychological Training Institute (Closed)",2026-11-09,2025-04-12
+4282,nche,institution,dropped,94,,"Institute of Accountants and Commerce",2026-11-09,2025-04-12
+4283,nche,institution,dropped,95,,"Soroti School of Comprehensive Nursing",2026-11-09,2025-04-12
+4284,nche,institution,dropped,101,,"Uganda Cooperatives College- Tororo",2026-11-09,2025-04-12
+4285,nche,institution,dropped,103,,"St. Mary’s Midwifery Training School, Kalongo",2026-11-09,2025-04-12
+4286,nche,institution,dropped,105,,"Uganda National Institute for Teacher Education, Muni Campus",2026-11-09,2025-04-12
+4287,nche,institution,dropped,106,,"Institute of Management Science & Technology (IMSAT)",2026-11-09,2025-04-12
+4288,nche,institution,dropped,107,,"Mbale School of Midwifery and Nursing",2026-11-09,2025-04-12
+4289,nche,institution,dropped,110,,"Uganda Management Institute, Mbale Campus",2026-11-09,2025-04-12
+4290,nche,institution,dropped,111,,"Uganda Christian University, Mbale Campus",2026-11-09,2025-04-12
+4291,nche,institution,dropped,112,,"Uganda Martyrs University, Mbale Campus",2026-11-09,2025-04-12
+4292,nche,institution,dropped,113,,"School of Hygiene, Mbale",2026-11-09,2025-04-12
+4293,nche,institution,dropped,115,,"Mbale College of Health Sciences",2026-11-09,2025-04-12
+4294,nche,institution,dropped,118,,"East African School of Aviation",2026-11-09,2025-04-12
+4295,nche,institution,dropped,120,,"Makerere University, Jinja Campus",2026-11-09,2025-04-12
+4296,nche,institution,dropped,122,,"Nile Vocational Institute",2026-11-09,2025-04-12
+4297,nche,institution,dropped,123,,"Uganda National Institute for Teacher Education, Kaliro Campus",2026-11-09,2025-04-12
+4298,nche,institution,dropped,126,,"St. Joseph’s Kamuli School of Midwifery and Nursing",2026-11-09,2025-04-12
+4299,nche,institution,dropped,131,,"Pentecostal Theological College, Mbale",2026-11-09,2025-04-12
+4300,nche,institution,dropped,132,,"Covenant Bible Institute of Theology",2026-11-09,2025-04-12
+4301,nche,institution,dropped,133,,"Glide Institute of Science and Technology – Butaleja",2026-11-09,2025-04-12
+4302,nche,institution,dropped,139,,"Medical Laboratory Technician’s School",2026-11-09,2025-04-12
+4303,nche,institution,dropped,140,,"Jinja School of Nursing and Midwifery",2026-11-09,2025-04-12
+4304,nche,institution,dropped,141,,"Ophthalmic Clinical Officers Training School",2026-11-09,2025-04-12
+4305,nche,institution,dropped,142,,"Non – Commissioned Officer Academy",2026-11-09,2025-04-12
+4306,nche,institution,dropped,144,,"Junior Staff College",2026-11-09,2025-04-12
+4307,nche,institution,dropped,147,,"Makerere University Business School, Jinja Campus",2026-11-09,2025-04-12
+4308,nche,institution,dropped,149,,"Masaka School of Comprehensive Nursing",2026-11-09,2025-04-12
+4309,nche,institution,dropped,151,,"Uganda National Institute for Teacher Education, Mubende Campus",2026-11-09,2025-04-12
+4310,nche,institution,dropped,154,,"Kampala centre for Logistics & Transport Studies (KCLTS)",2026-11-09,2025-04-12
+4311,nche,institution,dropped,159,,"Institute of Accountants and Vocational School Kyotera (IAVS)",2026-11-09,2025-04-12
+4312,nche,institution,dropped,160,,"Kyotera College of Business Studies",2026-11-09,2025-04-12
+4313,nche,institution,dropped,162,,"NESDA Comprehensive Nursing School",2026-11-09,2025-04-12
+4314,nche,institution,dropped,163,,"Johnass International College of Health Sciences",2026-11-09,2025-04-12
+4315,nche,institution,dropped,169,,"Kampala University, Luweero campus",2026-11-09,2025-04-12
+4316,nche,institution,dropped,170,,"Uganda Management and Technology University (UTAMU), Kungu Campus",2026-11-09,2025-04-12
+4317,nche,institution,dropped,172,,"Salaama Vocational Education Centre",2026-11-09,2025-04-12
+4318,nche,institution,dropped,174,,"Uganda Martyrs University, Masaka Campus",2026-11-09,2025-04-12
+4319,nche,institution,dropped,175,,"St. Lawrence Villa Maria School of Nursing and Midwifery",2026-11-09,2025-04-12
+4320,nche,institution,dropped,178,,"Ulrika Institute of Home Economics- Ggogonya",2026-11-09,2025-04-12
+4321,nche,institution,dropped,191,,"St. Joseph Polytechnic Institute",2026-11-09,2025-04-12
+4322,nche,institution,dropped,197,,"Yesu Akwagala Bible College",2026-11-09,2025-04-12
+4323,nche,institution,dropped,198,,"Word of Life African Bible Institute (WOLABI)",2026-11-09,2025-04-12
+4324,nche,institution,dropped,199,,"Maganjo Institute of Career Education",2026-11-09,2025-04-12
+4325,nche,institution,dropped,201,,"Pearl Crest Hospitality Training Institute",2026-11-09,2025-04-12
+4326,nche,institution,dropped,202,,"Westminster Christian Institute Uganda, Rafiki Campus",2026-11-09,2025-04-12
+4327,nche,institution,dropped,203,,"YMCA Comprehensive Institute, Buwambo",2026-11-09,2025-04-12
+4328,nche,institution,dropped,204,,"Luyanzi Institute of Technology",2026-11-09,2025-04-12
+4329,nche,institution,dropped,205,,"Uganda Institute of Allied Health and Management Sciences",2026-11-09,2025-04-12
+4330,nche,institution,dropped,208,,"Uganda Christian University, Kampala Campus",2026-11-09,2025-04-12
+4331,nche,institution,dropped,209,,"Nkumba University, Kampala Campus",2026-11-09,2025-04-12
+4332,nche,institution,dropped,211,,"Islamic University in Uganda, Female Campus",2026-11-09,2025-04-12
+4333,nche,institution,dropped,212,,"Kampala University, Mutundwe Campus",2026-11-09,2025-04-12
+4334,nche,institution,dropped,217,,"Unicaf University",2026-11-09,2025-04-12
+4335,nche,institution,dropped,218,,"Lubaga Hospital Training School",2026-11-09,2025-04-12
+4336,nche,institution,dropped,219,,"Mulago School of Radiography",2026-11-09,2025-04-12
+4337,nche,institution,dropped,221,,"Mulago School of Occupational Therapy",2026-11-09,2025-04-12
+4338,nche,institution,dropped,222,,"Mulago Medical Laboratory School",2026-11-09,2025-04-12
+4339,nche,institution,dropped,224,,"Butabika School of Psychiatric Nursing",2026-11-09,2025-04-12
+4340,nche,institution,dropped,225,,"Butabika School of Psychiatric Clinical Officers",2026-11-09,2025-04-12
+4341,nche,institution,dropped,227,,"Nakawa Vocational Training Institute",2026-11-09,2025-04-12
+4342,nche,institution,dropped,228,,"Health Tutors College Mulago",2026-11-09,2025-04-12
+4343,nche,institution,dropped,231,,"Public Health Nurses’ College",2026-11-09,2025-04-12
+4344,nche,institution,dropped,232,,"Medicare Health Professionals College",2026-11-09,2025-04-12
+4345,nche,institution,dropped,243,,"Uganda Institute of Allied Health and Management Science (UIAHMS) Mulago",2026-11-09,2025-04-12
+4346,nche,institution,dropped,244,,"Mulago School of Dispensing /Pharmacy",2026-11-09,2025-04-12
+4347,nche,institution,dropped,247,,"Rosa Mystica Business Institute",2026-11-09,2025-04-12
+4348,nche,institution,dropped,248,,"Indian Institute of Health and Allied Sciences (IIAS)",2026-11-09,2025-04-12
+4349,nche,institution,dropped,249,,"St. Francis Hospital Nsambya Training School",2026-11-09,2025-04-12
+4350,nche,institution,dropped,250,,"Universal Institute of Graphics and Technology",2026-11-09,2025-04-12
+4351,nche,institution,dropped,251,,"Institute of Forensics and ICT Security",2026-11-09,2025-04-12
+4352,nche,institution,dropped,253,,"Makland Institute of Business and Management",2026-11-09,2025-04-12
+4353,nche,institution,dropped,255,,"Universal Virtual Content Academy (Closed)",2026-11-09,2025-04-12
+4354,nche,institution,dropped,257,,"Kampala School of Health Sciences",2026-11-09,2025-04-12
+4355,nche,institution,dropped,260,,"Hopenet Training Centre",2026-11-09,2025-04-12
+4356,nche,institution,dropped,262,,"Kampala Institute of Vocational Training & Business Studies",2026-11-09,2025-04-12
+4357,nche,institution,dropped,263,,"Web Info-Net Institute of Technology",2026-11-09,2025-04-12
+4358,nche,institution,dropped,264,,"East African Professional Counseling Institute",2026-11-09,2025-04-12
+4359,nche,institution,dropped,265,,"Namasuba College of Commerce",2026-11-09,2025-04-12
+4360,nche,institution,dropped,266,,"International Institute of Business and Media Studies",2026-11-09,2025-04-12
+4361,nche,institution,dropped,268,,"Meritorious Biz Tech College",2026-11-09,2025-04-12
+4362,nche,institution,dropped,271,,"International American Colleges of Health Sciences (LIJIF) (Closed)",2026-11-09,2025-04-12
+4363,nche,institution,dropped,273,,"Techno-Brian (U) Ltd",2026-11-09,2025-04-12
+4364,nche,institution,dropped,274,,"Datamine Technical Business School",2026-11-09,2025-04-12
+4365,nche,institution,dropped,280,,"Makerere Business Training Centre",2026-11-09,2025-04-12
+4366,nche,institution,dropped,282,,"UMCAT School of Journalism and Mass Communication",2026-11-09,2025-04-12
+4367,nche,institution,dropped,286,,"Engineering Management and Innovation Institute",2026-11-09,2025-04-12
+4368,nche,institution,dropped,287,,"Makerere Metropolitan Management Institute (Closed)",2026-11-09,2025-04-12
+4369,nche,institution,dropped,288,,"World Wide Training College (Closed)",2026-11-09,2025-04-12
+4370,nche,institution,dropped,290,,"Law Development Centre Kampala",2026-11-09,2025-04-12
+4371,nche,institution,dropped,291,,"College of Health Sciences, Makerere University",2026-11-09,2025-04-12
+4372,nche,institution,dropped,292,,"Makerere University College of Agriculture and Environmental Sciences",2026-11-09,2025-04-12
+4373,nche,institution,dropped,293,,"Makerere University College of Business and Management Science",2026-11-09,2025-04-12
+4374,nche,institution,dropped,294,,"Makerere University College of Computing and Information Science",2026-11-09,2025-04-12
+4375,nche,institution,dropped,295,,"Makerere University College of Engineering, design, Art and Technology",2026-11-09,2025-04-12
+4376,nche,institution,dropped,296,,"Makerere University College of Humanities and Social Sciences",2026-11-09,2025-04-12
+4377,nche,institution,dropped,297,,"Makerere University College of Natural Sciences",2026-11-09,2025-04-12
+4378,nche,institution,dropped,298,,"Makerere University College of Veterinary Medicine, Animal Resources and Bio security",2026-11-09,2025-04-12
+4379,nche,institution,dropped,300,,"Skills Resource Centre (Closed)",2026-11-09,2025-04-12
+4380,nche,institution,dropped,301,,"Ernest Cook Ultra Sound Research and Education Institute",2026-11-09,2025-04-12
+4381,nche,institution,dropped,302,,"Management and Accountancy Training Co. Ltd (Closed)",2026-11-09,2025-04-12
+4382,nche,institution,dropped,303,,"The College of Professional Development (Closed)",2026-11-09,2025-04-12
