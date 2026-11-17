@@ -1,0 +1,119 @@
+{
+  "name": "population-census-2024",
+  "title": "Population and households of Uganda by parish, 2024 census",
+  "description": "Population by sex, household population, number of households and average household size for districts, counties, sub-counties and parishes, from the UBOS National Population and Housing Census 2024 sub-region profile reports, linked to the administrative units in this portal.",
+  "version": "0.2",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Uganda Bureau of Statistics (UBOS), National Population and Housing Census 2024, sub-region profile reports (Volume 2)",
+      "path": "https://statistics.ubos.org/nphc/report?cat=reports",
+      "date": "2025-06-01"
+    }
+  ],
+  "portal": {
+    "theme": "Population",
+    "keywords": [
+      "Uganda",
+      "census",
+      "population",
+      "households",
+      "NPHC 2024",
+      "parishes",
+      "sub-counties"
+    ],
+    "spatial": "Uganda",
+    "temporal": "2024-05-10",
+    "knownIssues": [
+      "Figures were extracted from the UBOS PDF reports. A table was kept only where every parent equals the sum of its children; about a dozen district tables (or parts of them) failed that check and are left out.",
+      "Census names are matched to portal units by name within their parent. Units the portal has under a different name or parent, and new units, have no figures (about 8% of parishes).",
+      "UBOS district figures include the municipalities inside the district; the portal lists municipal councils separately, with their own figures.",
+      "Where the portal has the same place twice, the figures go to the entry with the most children."
+    ],
+    "changelog": [
+      {
+        "date": "2026-11-08",
+        "note": "First publication: population by sex and households for districts, counties, sub-counties and parishes."
+      }
+    ]
+  },
+  "resources": [
+    {
+      "name": "population",
+      "title": "Population and households per unit, 2024 census",
+      "description": "One row per district, county, sub-county or parish with its 2024 census figures.",
+      "path": "data/population.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "row_id",
+            "type": "integer",
+            "description": "Row key: level number (1 district, 2 county, 3 sub-county, 4 parish) times 1,000,000 plus the unit id"
+          },
+          {
+            "name": "level",
+            "type": "string",
+            "description": "districts, counties, sub-counties or parishes"
+          },
+          {
+            "name": "unit_id",
+            "type": "integer",
+            "description": "Id of the unit at that level (use it to join with the API and the administrative units files)"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name of the unit in this portal"
+          },
+          {
+            "name": "district_id",
+            "type": "integer",
+            "description": "Id of the district the unit is in"
+          },
+          {
+            "name": "population",
+            "type": "integer",
+            "description": "Population (persons). Persons enumerated in the 2024 census."
+          },
+          {
+            "name": "population_male",
+            "type": "integer",
+            "description": "Male population (persons). Males enumerated in the 2024 census."
+          },
+          {
+            "name": "population_female",
+            "type": "integer",
+            "description": "Female population (persons). Females enumerated in the 2024 census."
+          },
+          {
+            "name": "household_population",
+            "type": "integer",
+            "description": "Household population (persons). Persons living in households (excludes institutions such as boarding schools, prisons and barracks)."
+          },
+          {
+            "name": "households",
+            "type": "integer",
+            "description": "Households (households). Number of households."
+          },
+          {
+            "name": "average_household_size",
+            "type": "number",
+            "description": "Average household size (persons per household). Household population divided by the number of households."
+          }
+        ],
+        "primaryKey": [
+          "row_id"
+        ]
+      }
+    }
+  ]
+}
