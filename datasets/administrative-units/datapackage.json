@@ -1,0 +1,570 @@
+{
+  "name": "administrative-units",
+  "title": "Administrative units of Uganda",
+  "description": "The administrative hierarchy of Uganda from regions down to villages: 4 regions, 15 sub-regions, districts (including cities and municipal councils), counties, sub-counties, parishes and villages, with the codes used by government and a crosswalk to ISO 3166-2, OCHA COD-AB P-codes, Wikidata, OpenStreetMap and GeoNames.",
+  "version": "0.2",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Uganda Bureau of Statistics (UBOS)",
+      "path": "https://www.ubos.org",
+      "date": "2025-04-10"
+    }
+  ],
+  "portal": {
+    "theme": "Boundaries and locations",
+    "keywords": [
+      "Uganda",
+      "administrative units",
+      "gazetteer",
+      "districts",
+      "parishes",
+      "villages",
+      "ISO 3166-2"
+    ],
+    "spatial": "Uganda",
+    "knownIssues": [
+      "Codes (ubosCode) are only unique within their parent unit, except for districts. Use the numeric id as the identifier.",
+      "Cities and municipal councils appear as separate units at district level.",
+      "UBOS district codes are not ISO 3166-2 codes; the ISO code is published separately in the identifiers attribute.",
+      "COD-AB P-codes are matched by name against the 2020 COD-AB boundaries. Cities, divisions and units created or reorganised since 2020 may have no P-code.",
+      "70 villages have no household code prefix (hh_code_prefix). Run \"php artisan opendata:validate\" for the current list of data quality warnings.",
+      "The change history starts on 2026-11-08; earlier boundary changes (such as the 2020 cities) are not recorded, and validity dates are empty unless known."
+    ],
+    "changelog": [
+      {
+        "date": "2026-11-08",
+        "note": "Validity dates and a change history for every unit; retired units drop out of lists but stay available. Crosswalk to COD-AB P-codes, Wikidata, OpenStreetMap and GeoNames."
+      },
+      {
+        "date": "2026-11-08",
+        "note": "API v1: stable ids, full ancestor path, ISO 3166-2 crosswalk, bulk downloads."
+      },
+      {
+        "date": "2025-04-10",
+        "note": "First publication."
+      }
+    ]
+  },
+  "resources": [
+    {
+      "name": "regions",
+      "title": "Regions",
+      "description": "All Regions with the ids of their ancestors.",
+      "path": "data/regions.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Region id"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name"
+          },
+          {
+            "name": "sub_name",
+            "type": "string",
+            "description": "Alternate name"
+          },
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Code as published by government"
+          },
+          {
+            "name": "valid_from",
+            "type": "date",
+            "description": "When the unit came into force, where known"
+          },
+          {
+            "name": "valid_to",
+            "type": "date",
+            "description": "When the unit was abolished, merged or split; empty while it is current"
+          },
+          {
+            "name": "iso3166_2",
+            "type": "string",
+            "description": "ISO 3166-2:UG code, where one exists"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "sub-regions",
+      "title": "Sub-regions",
+      "description": "All Sub-regions with the ids of their ancestors.",
+      "path": "data/sub-regions.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Sub-region id"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name"
+          },
+          {
+            "name": "sub_name",
+            "type": "string",
+            "description": "Alternate name"
+          },
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Code as published by government"
+          },
+          {
+            "name": "parent_id",
+            "type": "integer",
+            "description": "Id of the Region"
+          },
+          {
+            "name": "valid_from",
+            "type": "date",
+            "description": "When the unit came into force, where known"
+          },
+          {
+            "name": "valid_to",
+            "type": "date",
+            "description": "When the unit was abolished, merged or split; empty while it is current"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "districts",
+      "title": "Districts",
+      "description": "All Districts with the ids of their ancestors.",
+      "path": "data/districts.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "District id"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name"
+          },
+          {
+            "name": "sub_name",
+            "type": "string",
+            "description": "Alternate name"
+          },
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Code as published by government"
+          },
+          {
+            "name": "parent_id",
+            "type": "integer",
+            "description": "Id of the Sub-region"
+          },
+          {
+            "name": "region_id",
+            "type": "integer",
+            "description": "Id of the Region"
+          },
+          {
+            "name": "valid_from",
+            "type": "date",
+            "description": "When the unit came into force, where known"
+          },
+          {
+            "name": "valid_to",
+            "type": "date",
+            "description": "When the unit was abolished, merged or split; empty while it is current"
+          },
+          {
+            "name": "iso3166_2",
+            "type": "string",
+            "description": "ISO 3166-2:UG code, where one exists"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "counties",
+      "title": "Counties",
+      "description": "All Counties with the ids of their ancestors.",
+      "path": "data/counties.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "County id"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name"
+          },
+          {
+            "name": "sub_name",
+            "type": "string",
+            "description": "Alternate name"
+          },
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Code as published by government"
+          },
+          {
+            "name": "parent_id",
+            "type": "integer",
+            "description": "Id of the District"
+          },
+          {
+            "name": "region_id",
+            "type": "integer",
+            "description": "Id of the Region"
+          },
+          {
+            "name": "sub_region_id",
+            "type": "integer",
+            "description": "Id of the Sub-region"
+          },
+          {
+            "name": "valid_from",
+            "type": "date",
+            "description": "When the unit came into force, where known"
+          },
+          {
+            "name": "valid_to",
+            "type": "date",
+            "description": "When the unit was abolished, merged or split; empty while it is current"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "sub-counties",
+      "title": "Sub-counties",
+      "description": "All Sub-counties with the ids of their ancestors.",
+      "path": "data/sub-counties.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Sub-county id"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name"
+          },
+          {
+            "name": "sub_name",
+            "type": "string",
+            "description": "Alternate name"
+          },
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Code as published by government"
+          },
+          {
+            "name": "parent_id",
+            "type": "integer",
+            "description": "Id of the County"
+          },
+          {
+            "name": "region_id",
+            "type": "integer",
+            "description": "Id of the Region"
+          },
+          {
+            "name": "sub_region_id",
+            "type": "integer",
+            "description": "Id of the Sub-region"
+          },
+          {
+            "name": "district_id",
+            "type": "integer",
+            "description": "Id of the District"
+          },
+          {
+            "name": "valid_from",
+            "type": "date",
+            "description": "When the unit came into force, where known"
+          },
+          {
+            "name": "valid_to",
+            "type": "date",
+            "description": "When the unit was abolished, merged or split; empty while it is current"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "parishes",
+      "title": "Parishes",
+      "description": "All Parishes with the ids of their ancestors.",
+      "path": "data/parishes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Parish id"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name"
+          },
+          {
+            "name": "sub_name",
+            "type": "string",
+            "description": "Alternate name"
+          },
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Code as published by government"
+          },
+          {
+            "name": "parent_id",
+            "type": "integer",
+            "description": "Id of the Sub-county"
+          },
+          {
+            "name": "region_id",
+            "type": "integer",
+            "description": "Id of the Region"
+          },
+          {
+            "name": "sub_region_id",
+            "type": "integer",
+            "description": "Id of the Sub-region"
+          },
+          {
+            "name": "district_id",
+            "type": "integer",
+            "description": "Id of the District"
+          },
+          {
+            "name": "county_id",
+            "type": "integer",
+            "description": "Id of the County"
+          },
+          {
+            "name": "valid_from",
+            "type": "date",
+            "description": "When the unit came into force, where known"
+          },
+          {
+            "name": "valid_to",
+            "type": "date",
+            "description": "When the unit was abolished, merged or split; empty while it is current"
+          },
+          {
+            "name": "rural_urban",
+            "type": "string",
+            "description": "RURAL or URBAN"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "villages",
+      "title": "Villages",
+      "description": "All Villages with the ids of their ancestors.",
+      "path": "data/villages.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Village id"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name"
+          },
+          {
+            "name": "sub_name",
+            "type": "string",
+            "description": "Alternate name"
+          },
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Code as published by government"
+          },
+          {
+            "name": "parent_id",
+            "type": "integer",
+            "description": "Id of the Parish"
+          },
+          {
+            "name": "region_id",
+            "type": "integer",
+            "description": "Id of the Region"
+          },
+          {
+            "name": "sub_region_id",
+            "type": "integer",
+            "description": "Id of the Sub-region"
+          },
+          {
+            "name": "district_id",
+            "type": "integer",
+            "description": "Id of the District"
+          },
+          {
+            "name": "county_id",
+            "type": "integer",
+            "description": "Id of the County"
+          },
+          {
+            "name": "sub_county_id",
+            "type": "integer",
+            "description": "Id of the Sub-county"
+          },
+          {
+            "name": "valid_from",
+            "type": "date",
+            "description": "When the unit came into force, where known"
+          },
+          {
+            "name": "valid_to",
+            "type": "date",
+            "description": "When the unit was abolished, merged or split; empty while it is current"
+          },
+          {
+            "name": "hh_code_prefix",
+            "type": "string",
+            "description": "Household listing code prefix"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "changes",
+      "title": "Changes to administrative units",
+      "description": "Every recorded change: created, renamed, recoded, moved, retired, reinstated, deleted, split or merged.",
+      "path": "data/changes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Change id, in the order the changes were recorded"
+          },
+          {
+            "name": "unit_type",
+            "type": "string",
+            "description": "Level of the unit (regions … villages)"
+          },
+          {
+            "name": "unit_id",
+            "type": "integer",
+            "description": "Id of the unit"
+          },
+          {
+            "name": "type",
+            "type": "string",
+            "description": "created, renamed, recoded, moved, retired, reinstated, deleted, split, merged or updated"
+          },
+          {
+            "name": "effective_date",
+            "type": "date",
+            "description": "When the change took effect"
+          },
+          {
+            "name": "changes",
+            "type": "string",
+            "description": "JSON object of changed attributes: {\"name\": [old, new], ...}"
+          },
+          {
+            "name": "related_unit_type",
+            "type": "string",
+            "description": "For splits and merges: level of the other unit"
+          },
+          {
+            "name": "related_unit_id",
+            "type": "integer",
+            "description": "For splits and merges: id of the other unit"
+          },
+          {
+            "name": "note",
+            "type": "string",
+            "description": "Explanation or source of the change"
+          },
+          {
+            "name": "created_at",
+            "type": "string",
+            "description": "When the change was recorded"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    }
+  ]
+}
