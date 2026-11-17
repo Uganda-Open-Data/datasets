@@ -1,0 +1,123 @@
+{
+  "name": "schools",
+  "title": "Government primary and secondary schools in Uganda",
+  "description": "Government primary schools (2016 list) and government secondary schools published by the Ministry of Education and Sports, with their EMIS numbers, linked to the district, sub-county and parish of this portal.",
+  "version": "0.2",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Education and Sports: List of Government Primary Schools 2016; Government Secondary Schools",
+      "path": "https://www.education.go.ug/?p=2501",
+      "date": "2017-11-06"
+    }
+  ],
+  "portal": {
+    "theme": "Education",
+    "keywords": [
+      "Uganda",
+      "schools",
+      "primary schools",
+      "secondary schools",
+      "EMIS",
+      "education"
+    ],
+    "spatial": "Uganda",
+    "knownIssues": [
+      "Only government schools: the Ministry has not published a list of private and community schools in a usable form.",
+      "The primary list dates from 2016. Schools opened, closed or renamed since then are not reflected.",
+      "Schools are linked by the names of the district, sub-county and parish in the list. All are linked to a district, about 78% of primary schools to a sub-county and 71% to a parish; the names as listed are kept in listedLocation.",
+      "Secondary schools are linked to their district only.",
+      "The phone numbers in the primary list are personal contacts and are not published."
+    ],
+    "changelog": [
+      {
+        "date": "2026-11-08",
+        "note": "First publication: 12,085 government primary and 1,025 government secondary schools."
+      }
+    ]
+  },
+  "resources": [
+    {
+      "name": "schools",
+      "title": "Government primary and secondary schools",
+      "description": "One row per school with its EMIS number and the portal ids of its district, sub-county and parish.",
+      "path": "data/schools.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "School id in this portal"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "School name as listed"
+          },
+          {
+            "name": "emis_number",
+            "type": "string",
+            "description": "Education Management Information System number"
+          },
+          {
+            "name": "level",
+            "type": "string",
+            "description": "primary or secondary"
+          },
+          {
+            "name": "ownership",
+            "type": "string",
+            "description": "government"
+          },
+          {
+            "name": "district_id",
+            "type": "integer",
+            "description": "District id"
+          },
+          {
+            "name": "sub_county_id",
+            "type": "integer",
+            "description": "Sub-county id, where it could be matched"
+          },
+          {
+            "name": "parish_id",
+            "type": "integer",
+            "description": "Parish id, where it could be matched"
+          },
+          {
+            "name": "listed_district",
+            "type": "string",
+            "description": "District as written in the source list"
+          },
+          {
+            "name": "listed_sub_county",
+            "type": "string",
+            "description": "Sub-county as written in the source list (may include the county)"
+          },
+          {
+            "name": "listed_parish",
+            "type": "string",
+            "description": "Parish as written in the source list"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "Source list"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    }
+  ]
+}
