@@ -1,3 +1,9 @@
 # Each dataset folder has a steward who reviews its pull requests.
 *                               @ssmusoke
-/datasets/registration-plates/  @ssmusoke
+/datasets/administrative-units/           @ssmusoke
+/datasets/population-census-2024/         @ssmusoke
+/datasets/schools/                        @ssmusoke
+/datasets/higher-education-institutions/  @ssmusoke
+/datasets/electoral-areas-2025/           @ssmusoke
+/datasets/administrative-boundaries/      @ssmusoke
+/datasets/registration-plates/            @ssmusoke

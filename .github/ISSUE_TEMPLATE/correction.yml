@@ -7,6 +7,12 @@ body:
     attributes:
       label: Dataset
       options:
+        - administrative-units
+        - population-census-2024
+        - schools
+        - higher-education-institutions
+        - electoral-areas-2025
+        - administrative-boundaries
         - registration-plates
     validations:
       required: true
