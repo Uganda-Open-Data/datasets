@@ -1,0 +1,186 @@
+{
+  "name": "administrative-boundaries",
+  "title": "Administrative boundaries of Uganda",
+  "description": "Boundary polygons of the regions, sub-regions, districts and cities, counties, sub-counties and parishes of Uganda, joined to the units of this portal by their UBOS codes, with a bounding box, centroid and area for each. Processed from the Uganda Bureau of Statistics 2024 census boundaries and the Electoral Commission 2025 boundaries by the uganda-locale project.",
+  "version": "0.2",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "title": "uganda-locale project (CC BY 4.0)",
+      "path": "https://github.com/kakandemanwell/uganda",
+      "date": "2026-11-04"
+    }
+  ],
+  "portal": {
+    "theme": "Boundaries and locations",
+    "keywords": [
+      "Uganda",
+      "boundaries",
+      "GeoJSON",
+      "maps",
+      "districts",
+      "sub-counties",
+      "parishes",
+      "polygons"
+    ],
+    "spatial": "Uganda",
+    "temporal": "2024/2025",
+    "credits": [
+      {
+        "name": "Uganda Bureau of Statistics (UBOS), National Population and Housing Census 2024 boundaries",
+        "url": "https://www.ubos.org"
+      },
+      {
+        "name": "Electoral Commission of Uganda, 2025 electoral area boundaries",
+        "url": "https://www.ec.or.ug"
+      },
+      {
+        "name": "OCHA Common Operational Datasets (P-codes)",
+        "url": "https://data.humdata.org/dataset/cod-ab-uga"
+      }
+    ],
+    "creditText": "Boundaries: uganda-locale project (github.com/kakandemanwell/uganda, CC BY 4.0), processed from Uganda Bureau of Statistics NPHC 2024 and Electoral Commission 2025 data.",
+    "notes": [
+      "The polygons are processed data, not an official UBOS release: the uganda-locale project assembled them from the UBOS 2024 census boundaries (districts and sub-counties) and the Electoral Commission 2025 boundaries (parishes), simplified to 5 decimal places (about 1 metre).",
+      "Units are joined to the polygons by their full UBOS code (district, county, sub-county and parish codes together), and by name within their district or sub-county where the codes differ, such as in Kampala and in town councils created recently.",
+      "Coordinates are WGS 84 longitude and latitude (EPSG:4326), as in every GeoJSON file. The centroid is the centre of area, which can fall outside a curved or split unit.",
+      "Use and share the polygons under CC BY 4.0 with this credit: Boundaries: uganda-locale project (github.com/kakandemanwell/uganda, CC BY 4.0), processed from Uganda Bureau of Statistics NPHC 2024 and Electoral Commission 2025 data."
+    ],
+    "knownIssues": [
+      "Villages have no polygons: no open source has them. Village pages show the parish they lie in.",
+      "About 2% of parishes and 4% of sub-counties have no polygon, mostly town councils, wards and town boards created after the source boundaries were drawn. \"php artisan opendata:import-boundaries -v\" lists them.",
+      "The source drew 73 parishes and 3 sub-counties from the land left over between their neighbours; these are marked inferred.",
+      "Sub-regions are matched by name: Buganda North, Buganda South, Elgon and Greater Kampala are grouped differently in the source and have no polygon of their own. Their maps show their districts.",
+      "Kampala Capital City Authority divisions are counties in this portal but sub-counties in the source, so they have polygons as sub-counties only."
+    ],
+    "changelog": [
+      {
+        "date": "2026-11-10",
+        "note": "First publication: polygons from region to parish, read from the uganda-locale project at commit bb3ee6b."
+      }
+    ]
+  },
+  "resources": [
+    {
+      "name": "regions",
+      "title": "Boundaries of the regions",
+      "description": "GeoJSON polygons (WGS 84) of the regions. Each feature's properties: id (the portal id), type, level, name, displayName, slug, ubosCode, areaKm2, centroid, inferred and links. Boundaries: uganda-locale project (github.com/kakandemanwell/uganda, CC BY 4.0), processed from Uganda Bureau of Statistics NPHC 2024 and Electoral Commission 2025 data.",
+      "path": "data/regions.geojson",
+      "format": "geojson",
+      "mediatype": "application/geo+json"
+    },
+    {
+      "name": "sub-regions",
+      "title": "Boundaries of the sub-regions",
+      "description": "GeoJSON polygons (WGS 84) of the sub-regions. Each feature's properties: id (the portal id), type, level, name, displayName, slug, ubosCode, areaKm2, centroid, inferred and links. Boundaries: uganda-locale project (github.com/kakandemanwell/uganda, CC BY 4.0), processed from Uganda Bureau of Statistics NPHC 2024 and Electoral Commission 2025 data.",
+      "path": "data/sub-regions.geojson",
+      "format": "geojson",
+      "mediatype": "application/geo+json"
+    },
+    {
+      "name": "districts",
+      "title": "Boundaries of the districts",
+      "description": "GeoJSON polygons (WGS 84) of the districts. Each feature's properties: id (the portal id), type, level, name, displayName, slug, ubosCode, areaKm2, centroid, inferred and links. Boundaries: uganda-locale project (github.com/kakandemanwell/uganda, CC BY 4.0), processed from Uganda Bureau of Statistics NPHC 2024 and Electoral Commission 2025 data.",
+      "path": "data/districts.geojson",
+      "format": "geojson",
+      "mediatype": "application/geo+json"
+    },
+    {
+      "name": "counties",
+      "title": "Boundaries of the counties",
+      "description": "GeoJSON polygons (WGS 84) of the counties. Each feature's properties: id (the portal id), type, level, name, displayName, slug, ubosCode, areaKm2, centroid, inferred and links. Boundaries: uganda-locale project (github.com/kakandemanwell/uganda, CC BY 4.0), processed from Uganda Bureau of Statistics NPHC 2024 and Electoral Commission 2025 data.",
+      "path": "data/counties.geojson",
+      "format": "geojson",
+      "mediatype": "application/geo+json"
+    },
+    {
+      "name": "sub-counties",
+      "title": "Boundaries of the sub-counties",
+      "description": "GeoJSON polygons (WGS 84) of the sub-counties. Each feature's properties: id (the portal id), type, level, name, displayName, slug, ubosCode, areaKm2, centroid, inferred and links. Boundaries: uganda-locale project (github.com/kakandemanwell/uganda, CC BY 4.0), processed from Uganda Bureau of Statistics NPHC 2024 and Electoral Commission 2025 data.",
+      "path": "data/sub-counties.geojson",
+      "format": "geojson",
+      "mediatype": "application/geo+json"
+    },
+    {
+      "name": "parishes",
+      "title": "Boundaries of the parishes",
+      "description": "GeoJSON polygons (WGS 84) of the parishes. Each feature's properties: id (the portal id), type, level, name, displayName, slug, ubosCode, areaKm2, centroid, inferred and links. Boundaries: uganda-locale project (github.com/kakandemanwell/uganda, CC BY 4.0), processed from Uganda Bureau of Statistics NPHC 2024 and Electoral Commission 2025 data.",
+      "path": "data/parishes.geojson",
+      "format": "geojson",
+      "mediatype": "application/geo+json"
+    },
+    {
+      "name": "centroids",
+      "title": "Centroids, bounding boxes and areas",
+      "description": "One row per unit that has a boundary polygon, joined to the other datasets by unit_type and unit_id. Boundaries: uganda-locale project (github.com/kakandemanwell/uganda, CC BY 4.0), processed from Uganda Bureau of Statistics NPHC 2024 and Electoral Commission 2025 data.",
+      "path": "data/centroids.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "unit_type",
+            "type": "string",
+            "description": "Level: regions, sub-regions, districts, counties, sub-counties or parishes"
+          },
+          {
+            "name": "unit_id",
+            "type": "integer",
+            "description": "Portal id of the unit"
+          },
+          {
+            "name": "centroid_lat",
+            "type": "number",
+            "description": "Latitude of the centre of area (WGS 84)"
+          },
+          {
+            "name": "centroid_lng",
+            "type": "number",
+            "description": "Longitude of the centre of area (WGS 84)"
+          },
+          {
+            "name": "min_lng",
+            "type": "number",
+            "description": "West edge of the bounding box"
+          },
+          {
+            "name": "min_lat",
+            "type": "number",
+            "description": "South edge of the bounding box"
+          },
+          {
+            "name": "max_lng",
+            "type": "number",
+            "description": "East edge of the bounding box"
+          },
+          {
+            "name": "max_lat",
+            "type": "number",
+            "description": "North edge of the bounding box"
+          },
+          {
+            "name": "area_km2",
+            "type": "number",
+            "description": "Area in square kilometres, from the source"
+          },
+          {
+            "name": "inferred",
+            "type": "boolean",
+            "description": "Drawn by the source from the land left between its neighbours"
+          }
+        ],
+        "primaryKey": [
+          "unit_type",
+          "unit_id"
+        ]
+      }
+    }
+  ]
+}
