@@ -15,7 +15,7 @@ def write_package(root: Path, folder_name: str = "example", rows: str | None = N
         "name": folder_name,
         "title": "Example",
         "description": "An example dataset.",
-        "version": "2026.11.18",
+        "version": "0.1",
         "licenses": [{"name": "CC-BY-4.0", "path": "https://creativecommons.org/licenses/by/4.0/", "title": "Creative Commons Attribution 4.0 International"}],
         "sources": [{"title": "Example source", "path": "https://example.org/", "date": "2025-01-01"}],
         "portal": {

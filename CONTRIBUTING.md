@@ -68,12 +68,14 @@ python3 -m venv .venv
 
 ## Releasing (maintainers)
 
-Tag `main` with today's date and push the tag; the release workflow builds
-the tarball and checksums:
+Tag `main` with the next release number and push the tag; the release
+workflow builds the tarball and checksums. Releases go up by 0.1 (`0.1`,
+`0.2`, …); set the `version` of each dataset that changed to the new number
+in the same pull request as the change, or just before tagging.
 
 ```bash
 git switch main && git pull
-git tag 2026.11.18 && git push origin 2026.11.18
+git tag 0.2 && git push origin 0.2
 ```
 
-Use `2026.11.18.2` for a second release on the same day.
+A released tag is never moved or deleted; fix a mistake with the next release.

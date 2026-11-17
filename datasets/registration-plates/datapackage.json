@@ -2,7 +2,7 @@
   "name": "registration-plates",
   "title": "Government and diplomatic number plate codes of Uganda",
   "description": "The owner codes on the number plates of government ministries, agencies, district and municipal local governments, diplomatic missions, honorary consuls and United Nations agencies, from the 2024 Ministry of Works and Transport schedule, with the older letter codes they replaced. Look up any plate to see whose vehicle it is.",
-  "version": "2026.11.16",
+  "version": "0.1",
   "licenses": [
     {
       "name": "CC-BY-4.0",

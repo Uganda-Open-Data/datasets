@@ -18,10 +18,10 @@ Anyone can read, use, correct or add to the data.
 
 - **Releases:** each [release](https://github.com/Uganda-Open-Data/datasets/releases)
   has a tarball of every dataset and a `SHA256SUMS` file. Releases are
-  tagged by date (`2026.11.18`, or `2026.11.18.2` for a second release on
-  the same day) and never change.
+  numbered `0.1`, `0.2`, … and never change once published. A dataset's
+  `version` in its `datapackage.json` is the release that last changed it.
 - **Single files:** read a CSV straight from GitHub at a release tag, e.g.
-  `https://raw.githubusercontent.com/Uganda-Open-Data/datasets/<tag>/datasets/registration-plates/data/registration_plate_codes.csv`.
+  `https://raw.githubusercontent.com/Uganda-Open-Data/datasets/<release>/datasets/registration-plates/data/registration_plate_codes.csv`.
 - **With Frictionless:** `datapackage.json` loads directly in
   [frictionless-py](https://github.com/frictionlessdata/frictionless-py),
   R `frictionless` and other Data Package tools, with column types applied.
