@@ -12,7 +12,13 @@ Anyone can read, use, correct or add to the data.
 
 | Dataset | Folder | Source | Licence |
 |---|---|---|---|
-| Government and diplomatic number plate codes | [`datasets/registration-plates`](datasets/registration-plates) | Ministry of Works and Transport, 2024 schedule | CC-BY-4.0 |
+| Administrative units of Uganda | [`datasets/administrative-units`](datasets/administrative-units) | Uganda Bureau of Statistics | CC-BY-4.0 |
+| Population and households of Uganda by parish, 2024 census | [`datasets/population-census-2024`](datasets/population-census-2024) | Uganda Bureau of Statistics, NPHC 2024 | CC-BY-4.0 |
+| Government primary and secondary schools in Uganda | [`datasets/schools`](datasets/schools) | Ministry of Education and Sports | CC-BY-4.0 |
+| Tertiary and TVET institutions and programmes in Uganda | [`datasets/higher-education-institutions`](datasets/higher-education-institutions) | National Council for Higher Education; Ministry of Education and Sports (TVET) | CC-BY-4.0 |
+| Constituencies and electoral areas of Uganda, 2025 | [`datasets/electoral-areas-2025`](datasets/electoral-areas-2025) | Electoral Commission | CC-BY-4.0 |
+| Administrative boundaries of Uganda | [`datasets/administrative-boundaries`](datasets/administrative-boundaries) | uganda-locale project, from UBOS and Electoral Commission boundaries | CC-BY-4.0 |
+| Government and diplomatic number plate codes of Uganda | [`datasets/registration-plates`](datasets/registration-plates) | Ministry of Works and Transport, 2024 schedule | CC-BY-4.0 |
 
 ## Using the data
 
