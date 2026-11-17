@@ -20,3 +20,15 @@ def test_render_makes_a_markdown_table():
 
 def test_render_says_when_no_data_changed():
     assert "No data files changed" in render([])
+
+
+def test_key_for_uses_the_table_primary_key_then_portal_key():
+    from tools.diff_summary import key_for
+
+    package = {"portal": {"key": ["scheme"]}, "resources": [
+        {"path": "data/a.csv", "schema": {"primaryKey": ["id"]}},
+        {"path": "data/b.csv", "schema": {}},
+    ]}
+    assert key_for(package, "data/a.csv") == ["id"]
+    assert key_for(package, "data/b.csv") == ["scheme"]
+    assert key_for(package, "data/c.csv") is None

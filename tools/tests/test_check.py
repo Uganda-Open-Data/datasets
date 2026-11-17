@@ -17,7 +17,7 @@ def test_slug_must_be_lowercase_kebab_case(package):
 
 def test_missing_portal_keys_are_reported(package):
     folder = package(**{"portal__key": None})
-    assert "example: portal.key is missing" in check_package(folder)
+    assert "example: portal.key is missing (or give every table a schema.primaryKey)" in check_package(folder)
 
 
 def test_licence_outside_allow_list_is_refused(package):
@@ -118,3 +118,35 @@ def test_main_fails_when_a_dataset_folder_was_removed(tmp_path, package):
     write_package(base, "gone")
     write_package(head, "kept")
     assert main(head, base=base) == 1
+
+
+def _with_geojson(package, text):
+    folder = package()
+    (folder / "data" / "regions.geojson").write_text(text)
+    import json
+    descriptor = json.loads((folder / "datapackage.json").read_text())
+    descriptor["resources"].append({"name": "regions", "path": "data/regions.geojson", "format": "geojson", "mediatype": "application/geo+json"})
+    (folder / "datapackage.json").write_text(json.dumps(descriptor))
+    return folder
+
+
+def test_geojson_resources_pass_when_they_are_feature_collections(package):
+    folder = _with_geojson(package, '{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"phone": "0772123456"}, "geometry": null}]}')
+    assert check_package(folder) == []
+
+
+def test_geojson_that_is_not_a_feature_collection_fails(package):
+    folder = _with_geojson(package, '{"type": "Feature"}')
+    assert "example: regions.geojson is not a GeoJSON FeatureCollection" in check_package(folder)
+
+
+def test_geojson_that_is_not_json_fails(package):
+    folder = _with_geojson(package, "not json")
+    assert "example: regions.geojson is not a GeoJSON FeatureCollection" in check_package(folder)
+
+
+def test_a_table_primary_key_replaces_portal_key(package):
+    folder = package(rows="scheme,code,name,website,note\n2024,38,Works,,\n2025,38,Works,,\n", **{"portal__key": None, "resources__0__schema__primaryKey": ["code"]})
+    errors = check_package(folder)
+    assert "example: portal.key is missing" not in errors
+    assert "example: rows.csv has the duplicate key 38 on rows 2 and 3" in errors
