@@ -1,0 +1,5 @@
+id,name,sub_name,code,valid_from,valid_to,iso3166_2
+1,CENTRAL,,1,,,UG-C
+2,EASTERN,,2,,,UG-E
+3,NORTHERN,,4,,,UG-N
+4,WESTERN,,3,,,UG-W
