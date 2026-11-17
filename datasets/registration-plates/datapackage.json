@@ -1,0 +1,190 @@
+{
+  "name": "registration-plates",
+  "title": "Government and diplomatic number plate codes of Uganda",
+  "description": "The owner codes on the number plates of government ministries, agencies, district and municipal local governments, diplomatic missions, honorary consuls and United Nations agencies, from the 2024 Ministry of Works and Transport schedule, with the older letter codes they replaced. Look up any plate to see whose vehicle it is.",
+  "version": "2026.11.16",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Works and Transport: The Traffic and Road Safety (Registration Plates) (Amendment) (No. 3) Regulations, 2024, Schedule VI (public notice in Luganda, posted on the Ministry's X account)",
+      "path": "https://x.com/MoWT_Uganda/status/1874406538925723950",
+      "date": "2025-01-01",
+      "archive": "sources/mowt-government-vehicle-codes-2025-01-01.jpg"
+    }
+  ],
+  "portal": {
+    "theme": "Transport",
+    "keywords": [
+      "Uganda",
+      "number plates",
+      "registration plates",
+      "vehicles",
+      "government",
+      "local government",
+      "diplomatic",
+      "honorary consul",
+      "United Nations",
+      "Ministry of Works and Transport"
+    ],
+    "spatial": "Uganda",
+    "temporal": "2024-05-06",
+    "credits": [
+      {
+        "name": "East News Uganda: English names of the government plate codes (11 December 2024)",
+        "url": "https://eastnews.co.ug/2024/12/11/here-are-the-new-number-plates-for-government-ministries-agencies/"
+      },
+      {
+        "name": "Wikipedia: Vehicle registration plates of Uganda (old government letter codes)",
+        "url": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Uganda"
+      },
+      {
+        "name": "Nymy Net: Uganda digital number plates explained (diplomatic, UN and other formats)",
+        "url": "https://nymynet.com/uganda-digital-number-plates-explained-what-ug-lg-cd-ua-uma-and-numbers-mean/"
+      },
+      {
+        "name": "United Nations Uganda: UN entities in the country",
+        "url": "https://uganda.un.org/en/about/un-entities-in-country"
+      },
+      {
+        "name": "Olav's plates: number plates of Uganda (old diplomatic plates)",
+        "url": "https://www.olavsplates.com/uganda.html"
+      }
+    ],
+    "notes": [
+      "Digital government plates read UG, a two-digit code for the ministry or agency, then the vehicle number (UG 38 00012). Police plates start UP and prisons plates UU. District and municipal local governments use LG and a three-digit code (LG 139 0001). Parastatals use UA and the code of their parent ministry (UA 12 025AA). Diplomatic missions use CD and a mission number (CD 001 000U), honorary consuls HC and a country number (HC 151 00U), and United Nations agencies UN and the agency (UN WFP 0001).",
+      "Before the digital plates, government plates read UG, the vehicle number and a letter for the ministry (UG 0785 W). These letter codes are included, each with the code the same body uses now.",
+      "Owners of private and commercial vehicles are not public: the lookup only says that such a plate is private."
+    ],
+    "knownIssues": [
+      "The schedule was published in Luganda. English names follow the English lists in the press; UG 28 (East African Community Affairs) is in the schedule but missing from those lists, so its English name is a translation.",
+      "Spellings in the notice are kept in publishedName (e.g. Oyama, Kasanda, Karenge, Bunyangabo); name uses the official spelling.",
+      "Ten of the municipalities in the schedule (Arua, Fort Portal, Gulu, Hoima, Jinja, Lira, Masaka, Mbale, Mbarara, Soroti) became cities in 2020; they are linked to the city.",
+      "No official list of diplomatic mission numbers is published. Only the missions named in press reports or by plate collectors are included; other CD plates are recognised as diplomatic without naming the mission.",
+      "No official list of honorary consul country numbers or UN agency codes is published. Only HC 151 (Nepal) and UN WFP (World Food Programme) are named, from a press explainer; other HC and UN plates are recognised without naming the owner.",
+      "Websites were checked on 13 November 2026 and only those that answered with the owner's own site are listed. The Public Service Commission, the Prisons Service and 20 local governments have none that works; one municipal domain (Sheema) now belongs to an unrelated shop and is left out.",
+      "Embassies carry the flag and website of their country's mission in Uganda.",
+      "The old letter codes come from Wikipedia, not a gazette. Letters P and V are not listed. The colours of old diplomatic plates on the number plates page are indicative."
+    ],
+    "changelog": [
+      {
+        "date": "2026-11-16",
+        "note": "Added the first honorary consul code (HC 151, Nepal) and United Nations agency code (UN WFP, World Food Programme)."
+      },
+      {
+        "date": "2026-11-13",
+        "note": "First publication: 39 government, 176 local government and 3 diplomatic codes from the 2024 schedule, and 28 older codes, with the website of each owner and the country of each diplomatic mission."
+      }
+    ],
+    "key": [
+      "scheme",
+      "series",
+      "code"
+    ]
+  },
+  "resources": [
+    {
+      "name": "registration_plate_codes",
+      "path": "data/registration_plate_codes.csv",
+      "title": "Plate owner codes",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "scheme",
+            "type": "string",
+            "description": "2024 for the codes of the 2024 schedule, legacy for the older letter codes",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "2024",
+                "legacy"
+              ]
+            }
+          },
+          {
+            "name": "series",
+            "type": "string",
+            "description": "The letters that start the plate: UG government, UP police, UU prisons, LG local government, CD diplomatic, HC honorary consul, UN United Nations",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "CD",
+                "HC",
+                "LG",
+                "UG",
+                "UN",
+                "UP",
+                "UU"
+              ]
+            }
+          },
+          {
+            "name": "code",
+            "type": "string",
+            "description": "The owner's number or letters after the series (UG 38, LG 139, UN WFP, UG W); empty for police and prisons"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "The owner's official name in English",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "published_name",
+            "type": "string",
+            "description": "The name as printed in the notice, in Luganda for the 2024 schedule"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "agency",
+                "diplomatic_mission",
+                "district",
+                "honorary_consul",
+                "ministry",
+                "municipality",
+                "un_agency"
+              ]
+            }
+          },
+          {
+            "name": "successor",
+            "type": "string",
+            "description": "For a legacy code, the series and code the same owner uses now"
+          },
+          {
+            "name": "website",
+            "type": "string",
+            "format": "uri",
+            "description": "The owner's own website, where one answers"
+          },
+          {
+            "name": "country_code",
+            "type": "string",
+            "description": "ISO 3166-1 alpha-2 code of a diplomatic mission's or honorary consul's country",
+            "constraints": {
+              "pattern": "^[A-Z]{2}$"
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
