@@ -1,0 +1,173 @@
+{
+  "name": "electoral-areas-2025",
+  "title": "Constituencies and electoral areas of Uganda, 2025",
+  "description": "Electoral Commission constituencies and the electoral areas of directly elected district, municipality and sub-county councillors from the 2025 demarcation, linked to the districts, counties, sub-counties and parishes of this portal.",
+  "version": "0.2",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Electoral Commission of Uganda: Display list of demarcated electoral areas for local government council elections 2025",
+      "path": "https://www.ec.or.ug/info/lists-demarcated-electoral-areas-2025",
+      "date": "2025-01-01"
+    }
+  ],
+  "portal": {
+    "theme": "Government and elections",
+    "keywords": [
+      "Uganda",
+      "elections",
+      "constituencies",
+      "electoral areas",
+      "local government",
+      "Electoral Commission"
+    ],
+    "spatial": "Uganda",
+    "knownIssues": [
+      "Polling stations are not included: the Electoral Commission has not published a list of them in a usable form.",
+      "Women councillor electoral areas (which group several areas) are not included.",
+      "Constituencies are linked to the county of the same name; municipality constituencies are linked to the municipal council at district level, with no county.",
+      "Electoral areas are linked by name to sub-counties and parishes; the Electoral Commission codes and names as published are kept."
+    ],
+    "changelog": [
+      {
+        "date": "2026-11-08",
+        "note": "First publication: 353 constituencies and 13,331 electoral areas."
+      }
+    ]
+  },
+  "resources": [
+    {
+      "name": "constituencies",
+      "title": "Constituencies",
+      "description": "Electoral Commission constituencies with the portal ids of their district and county.",
+      "path": "data/constituencies.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Constituency id in this portal"
+          },
+          {
+            "name": "ec_code",
+            "type": "string",
+            "description": "Electoral Commission constituency code"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Constituency name"
+          },
+          {
+            "name": "ec_district_code",
+            "type": "string",
+            "description": "Electoral Commission district code"
+          },
+          {
+            "name": "listed_district",
+            "type": "string",
+            "description": "District as published by the Electoral Commission"
+          },
+          {
+            "name": "district_id",
+            "type": "integer",
+            "description": "District id (or municipal council id for municipality constituencies)"
+          },
+          {
+            "name": "county_id",
+            "type": "integer",
+            "description": "County id, where one matches"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "electoral-areas",
+      "title": "Electoral areas of directly elected councillors",
+      "description": "One row per electoral area with its constituency and the portal ids of its sub-county and parish.",
+      "path": "data/electoral-areas.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Electoral area id in this portal"
+          },
+          {
+            "name": "constituency_id",
+            "type": "integer",
+            "description": "Constituency id"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "description": "district, municipality or sub-county council"
+          },
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Electoral Commission electoral area code"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Electoral area name"
+          },
+          {
+            "name": "ec_sub_county_code",
+            "type": "string",
+            "description": "Electoral Commission sub-county code"
+          },
+          {
+            "name": "listed_sub_county",
+            "type": "string",
+            "description": "Sub-county as published"
+          },
+          {
+            "name": "sub_county_id",
+            "type": "integer",
+            "description": "Sub-county id, where it could be matched"
+          },
+          {
+            "name": "ec_parish_code",
+            "type": "string",
+            "description": "Electoral Commission parish code"
+          },
+          {
+            "name": "listed_parish",
+            "type": "string",
+            "description": "Parish as published"
+          },
+          {
+            "name": "parish_id",
+            "type": "integer",
+            "description": "Parish id, where it could be matched"
+          },
+          {
+            "name": "district_id",
+            "type": "integer",
+            "description": "District id"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    }
+  ]
+}
