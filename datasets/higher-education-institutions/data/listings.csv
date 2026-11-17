@@ -1,0 +1,653 @@
+id,education_institution_id,register,source_id,listed_name,category,accreditation_status,ownership,sector,licence_number,accredited_on,listed_district,first_seen_on,last_seen_on
+1673,1,nche,,"Rukungiri Institute of Management",OTI,,,,,,Rukungiri,2025-04-12,2026-11-09
+1674,2,nche,,"Ankole Western Institute of Science and Technology",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,SHEEMA,2025-04-12,2025-04-12
+1675,3,nche,2020,"Ankole Western University",University,"Provisional License to Operate as University",,,,,Sheema,2025-04-12,2026-11-09
+1676,4,nche,2031,"Bugongi Institute of Nursing and Midwifery",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Sheema,2025-04-12,2026-11-09
+1677,5,nche,2185,"Uganda College of Commerce Pakwach",OTI,"OTI – Registered",,,,,Pakwach,2025-04-12,2026-11-09
+1678,6,nche,,"Uganda Technical College, Kyema,",OTI,"OTI – Registered",Public,,,,MASINDI,2025-04-12,2025-04-12
+1679,7,nche,,"Mayanja Memorial Medical Training Institute",OTI,,,,,,Mbarara,2025-04-12,2026-11-09
+1680,8,nche,2122,"Metropolitan International University-Mbarara Campus",University,Campuses,,,PR/CO/2022/550019,2022-10-17,Mbarara,2025-04-12,2026-11-09
+1681,9,nche,2193,"Uganda Management Institute, Mbarara Campus",Campus,Campuses,,,,,Mbarara,2025-04-12,2026-11-09
+1682,10,nche,,"Makerere University Business School, Mbarara",Campus,Campuses,Public,,,,MBARARA,2025-04-12,2025-04-12
+1683,11,nche,,"Mbarara Institute for Social Development",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,MBARARA,2025-04-12,2025-04-12
+1684,12,nche,2178,"Uganda Bible Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Mbarara,2025-04-12,2026-11-09
+1685,13,nche,,"Development Studies Centre (DSC)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,MBARARA,2025-04-12,2025-04-12
+1686,14,nche,,"Rubindi Vocational Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,MBARARA,2025-04-12,2025-04-12
+1687,15,nche,,"Nyamitanga College of Business Studies",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,MBARARA,2025-04-12,2025-04-12
+1688,16,nche,2211,"University of St. Joseph, Mbarara",University,"Provisional License to Operate as University",,,,,Mbarara,2025-04-12,2026-11-09
+1689,17,nche,2119,"Mbarara University of Science and Technology",University,"Public University",Public,,,,Mbarara,2025-04-12,2026-11-09
+1690,18,nche,2027,"Bishop Stuart University",University,"Chartered University",,,,,Mbarara,2025-04-12,2026-11-09
+1691,19,nche,2149,"Rwentanga Farm Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Mbarara,2025-04-12,2026-11-09
+1692,20,nche,,"Kyera Agricultural Training College",OTI,"Certificate of Classification and Registration",Private,,,,MBARARA,2025-04-12,2025-04-12
+1693,21,nche,2042,"Canon Ndimbirwe Bible College",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Rukungiri,2025-04-12,2026-11-09
+1694,22,nche,,"Makerere College of Business & Computer Studies",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,RUKUNGIRI,2025-04-12,2025-04-12
+1695,23,nche,,"Karoli Lwanga Institute of Health Sciences-Nyakibale",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,RUKUNGIRI,2025-04-12,2025-04-12
+1696,24,nche,,"Mutolere School of Nursing and Midwifery",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KISORO,2025-04-12,2025-04-12
+1697,25,nche,2121,"Metropolitan International University",University,"Chartered University",,,,,Kisoro,2025-04-12,2026-11-09
+1698,26,nche,,"Kabalega College Masindi",OTI,,,,,,Masindi,2025-04-12,2026-11-09
+1699,27,nche,2144,"Nyabyeya Forestry College",OTI,"Public OTI",Public,,,,Masindi,2025-04-12,2026-11-09
+1700,28,nche,2150,"Rwenzori International University",University,"Provisional License to Operate as University",,,,,Kasese,2025-04-12,2026-11-09
+1701,29,nche,,"Uganda Christian University , Kagando University College",Campus,Campuses,Private,,,,KASESE,2025-04-12,2025-04-12
+1702,30,nche,,"African Rural University",University,,,,,,Kibaale,2025-04-12,2026-11-09
+1703,31,nche,2127,"Monaco Institute of Business and Computer Science",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kiruhura,2025-04-12,2026-11-09
+1704,32,nche,2204,"Uganda Petroleum Institute Kigumba",OTI,"Public OTI",Public,,,,Kiryandongo,2025-04-12,2026-11-09
+1705,33,nche,2188,"Uganda Cooperative College Kigumba",OTI,"OTI – Registered",,,,,Kiryandongo,2025-04-12,2026-11-09
+1706,34,nche,,"Kigumba Business and Vocational Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KIRYANDONGO,2025-04-12,2025-04-12
+1707,35,nche,,"Uganda Martyrs University, Kabale Campus",Campus,Campuses,Private,,,,KABALE,2025-04-12,2025-04-12
+1708,36,nche,2159,"St Ignatius University Kabale",University,"Provisional License to Operate as University",,,,,Kabale,2025-04-12,2026-11-09
+1709,37,nche,2025,"Bishop Balya College",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kabarole,2025-04-12,2026-11-09
+1710,38,nche,2198,"Uganda Martyrs University- Fort Portal Campus",Campus,Campuses,,,PR/CO/2016/550010,2016-06-27,"Fort Portal",2025-04-12,2026-11-09
+1711,39,nche,2163,"St Paul's National Major Seminary, Kinyamasika",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,"Fort Portal",2025-04-12,2026-11-09
+1712,40,nche,2215,"Virika Institute of Health Sciences",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kabarole,2025-04-12,2026-11-09
+1713,41,nche,,"Fortportal College of Health Sciences",OTI,"OTI – Registered",Public,,,,KABAROLE,2025-04-12,2025-04-12
+1714,42,nche,,"Uganda Technical College, Kichwamba",OTI,"OTI – Registered",Public,,,,KABAROLE,2025-04-12,2025-04-12
+1715,43,nche,2128,"Mountains of the Moon University",University,"University - Registered",,,,,"Fort Portal",2025-04-12,2026-11-09
+1716,44,nche,2058,"FINS Medical University",University,"Provisional License to Operate as University",,,,,"Fort Portal",2025-04-12,2026-11-09
+1717,45,nche,2202,"Uganda Pentecostal University",University,"Provisional License to Operate as University",,,,,Kabarole,2025-04-12,2026-11-09
+1718,46,nche,2064,"Great Lakes Regional University",University,"Provisional License to Operate as University",,,,,Kanungu,2025-04-12,2026-11-09
+1719,47,nche,,"African Ark College of Management Sciences (AACMS)",OTI,,,,,,Kasese,2025-04-12,2026-11-09
+1720,48,nche,2208,"Uganda Wildlife Research and Training Institute",OTI,"OTI – Registered",,,,,Kasese,2025-04-12,2026-11-09
+1721,49,nche,2094,"Kampala International University, Ishaka Campus",Campus,Campuses,,,PR/CO/2016/550015,2016-06-27,Bushenyi,2025-04-12,2026-11-09
+1722,50,nche,,"Uganda Technical College, Bushenyi",OTI,"OTI – Registered",Public,,,,BUSHENYI,2025-04-12,2025-04-12
+1723,51,nche,2213,"Valley University of Science and Technology",University,"Chartered University",,,,,Bushenyi,2025-04-12,2026-11-09
+1724,52,nche,,"St. Simon Peter’s Vocational Training College",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,HOIMA,2025-04-12,2025-04-12
+1725,53,nche,,"Ibanda School of Midwifery and Nursing",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,IBANDA,2025-04-12,2025-04-12
+1726,54,nche,2019,"Alliance College of Science and Technology, Ibanda",OTI,"Certificate of Classification and Registration",,,,,Ibanda,2025-04-12,2026-11-09
+1727,55,nche,2069,"Ibanda University",University,"Provisional License to Operate as University",,,,,Ibanda,2025-04-12,2026-11-09
+1728,56,nche,2088,"Kabale University",University,"Public University",Public,,,,Kabale,2025-04-12,2026-11-09
+1729,57,nche,,"Bishop Barham University College (Constituent College of Uganda Christian University)","Constituent College","Constituent College",Private,,,,KABALE,2025-04-12,2025-04-12
+1730,58,nche,,"Kabale Institute of Health Sciences",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KABALE,2025-04-12,2025-04-12
+1731,59,nche,2184,"Uganda College of Commerce Kabale",OTI,"OTI – Registered",,,,,Kabale,2025-04-12,2026-11-09
+1732,60,nche,,"Uganda National Institute for Teacher Education, Kabale Campus",OTI,"OTI – Registered",Public,,,,KABALE,2025-04-12,2025-04-12
+1733,61,nche,2009,"African College of Commerce and Technology",OTI,"Certificate of Classification and Registration",,,,,Kabale,2025-04-12,2026-11-09
+1734,62,nche,2010,"African International Christian Ministry College of Science and Technology",OTI,"Certificate of Classification and Registration",,,,,Kabale,2025-04-12,2026-11-09
+1735,63,nche,,"Daniel Comboni Technical College",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,GULU,2025-04-12,2025-04-12
+1736,64,nche,,"Uganda National Institute for Teacher Education, Unyama Campus",OTI,"OTI – Registered",Public,,,,GULU,2025-04-12,2025-04-12
+1737,65,nche,,"Gulu College of Health Sciences",OTI,"OTI – Registered",Public,,,,GULU,2025-04-12,2025-04-12
+1738,66,nche,,"Northern Institute of Business Studies (NIBS)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,GULU,2025-04-12,2025-04-12
+1739,67,nche,,"Gulu Institute of Health Sciences",OTI,"Certificate of Classification and Registration",Private,,,,GULU,2025-04-12,2025-04-12
+1740,68,nche,,"Kitgum Business Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KITGUM,2025-04-12,2025-04-12
+1741,69,nche,,"Uganda Technical College, Lira",OTI,"OTI – Registered",Public,,,,LIRA,2025-04-12,2025-04-12
+1742,70,nche,,"Fountainhead Institute of Management and Technology",OTI,"Certificate of Classification and Registration",Private,,,,LIRA,2025-04-12,2025-04-12
+1743,71,nche,,"Uganda Martyrs University, Ngetta Campus",Campus,Campuses,Private,,,,LIRA,2025-04-12,2025-04-12
+1744,72,nche,2104,"Lira University",University,"Public University",Public,,,,Lira,2025-04-12,2026-11-09
+1745,73,nche,2018,"All Saints University, Lango",University,"Provisional License to Operate as University",,,,,Lira,2025-04-12,2026-11-09
+1746,74,nche,,"Management Institute of Science and Technology",OTI,,,,,,Lira,2025-04-12,2026-11-09
+1747,75,nche,2180,"Uganda Christian Institute for Professional Development",OTI,"Certificate of Classification and Registration",,,,,Lira,2025-04-12,2026-11-09
+1748,76,nche,,"Human Technical & Business College",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,LIRA,2025-04-12,2025-04-12
+1749,77,nche,2053,"Ebenezer University Lira",University,"Provisional License to Operate as University",,,,,Lira,2025-04-12,2026-11-09
+1750,78,nche,2166,"St. Isabel Technical Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Yumbe,2025-04-12,2026-11-09
+1751,79,nche,,"St. Kizito Hospital Matany School of Nursing and Midwifery",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,NAPAK,2025-04-12,2025-04-12
+1752,80,nche,2140,"Nile Institute of Management Studies",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Arua,2025-04-12,2026-11-09
+1753,81,nche,,"Islamic University in Uganda, Arua Campus",Campus,Campuses,Private,,,,ARUA,2025-04-12,2025-04-12
+1754,82,nche,2051,"East Africa Institute for Management Science",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Gulu,2025-04-12,2026-11-09
+1755,83,nche,,"St. Anthony Counseling, Training and Skills Development Institute- Gulu Archdiocese (Formerly CARITAS Counseling and Training Institute)",OTI,"Certificate of Classification and Registration",Private,,,,GULU,2025-04-12,2025-04-12
+1756,84,nche,2210,"University of the Sacred Heart Gulu",University,"Provisional License to Operate as University",,,,,Gulu,2025-04-12,2026-11-09
+1757,85,nche,2065,"Gulu University",University,"Public University",Public,,,,Gulu,2025-04-12,2026-11-09
+1758,86,nche,,"St. Mary’s Hospital Lacor Health Training Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,GULU,2025-04-12,2025-04-12
+1759,87,nche,3193,"Uganda Marty’s National Major Seminary, Alokolum",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Gulu,2025-04-12,2026-11-09
+1760,88,nche,2192,"Uganda Management Institute, Gulu Campus",Campus,Campuses,,,,,Gulu,2025-04-12,2026-11-09
+1761,89,nche,2132,"Muni University",University,"Public University",Public,,,,Arua,2025-04-12,2026-11-09
+1762,90,nche,,"Makerere University Business School, Arua Campus",Campus,Campuses,Public,,,,ARUA,2025-04-12,2025-04-12
+1763,91,nche,,"Uganda Christian University, Arua Campus",Campus,Campuses,Private,,,,ARUA,2025-04-12,2025-04-12
+1764,92,nche,,"Nile University (NiU)",University,"Provisional License to Operate as University",Private,,,,ARUA,2025-04-12,2025-04-12
+1765,93,nche,,"Psychological Training Institute (Closed)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,ARUA,2025-04-12,2025-04-12
+1766,94,nche,,"Institute of Accountants and Commerce",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,ARUA,2025-04-12,2025-04-12
+1767,95,nche,,"Soroti School of Comprehensive Nursing",OTI,"OTI – Registered",Public,,,,SOROTI,2025-04-12,2025-04-12
+1768,96,nche,2156,"Soroti University",University,"Public University",Public,,,,Soroti,2025-04-12,2026-11-09
+1769,97,nche,2035,"Busitema University, Arapai Campus",Campus,Campuses,,,PB/CO/2008/440014,2008-06-09,Soroti,2025-04-12,2026-11-09
+1770,98,nche,,"Uganda Martyrs Polytechnic College –soroti",OTI,,,,,,Soroti,2025-04-12,2026-11-09
+1771,99,nche,2037,"Busitema University, Nagongera Campus",Campus,Campuses,,,PB/CO/2007/440010,2008-01-02,Tororo,2025-04-12,2026-11-09
+1772,100,nche,2187,"Uganda College of Commerce, Tororo",OTI,"Public OTI",Public,,,,Tororo,2025-04-12,2026-11-09
+1773,101,nche,,"Uganda Cooperatives College- Tororo",OTI,"OTI – Registered",Public,,,,TORORO,2025-04-12,2025-04-12
+1774,102,nche,2070,"Informatics Management Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Adjumani,2025-04-12,2026-11-09
+1775,103,nche,,"St. Mary’s Midwifery Training School, Kalongo",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,AGAGO,2025-04-12,2025-04-12
+1776,104,nche,2183,"Uganda College of Commerce Aduku",OTI,"OTI – Registered",,,,,Apac,2025-04-12,2026-11-09
+1777,105,nche,,"Uganda National Institute for Teacher Education, Muni Campus",OTI,"OTI – Registered",Public,,,,ARUA,2025-04-12,2025-04-12
+1778,106,nche,,"Institute of Management Science & Technology (IMSAT)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,MBALE,2025-04-12,2025-04-12
+1779,107,nche,,"Mbale School of Midwifery and Nursing",OTI,"OTI – Registered",Public,,,,MBALE,2025-04-12,2025-04-12
+1780,108,nche,2099,"Knox School of Theology Uganda",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Mbale,2025-04-12,2026-11-09
+1781,109,nche,2117,"Masaba College of Management and Professional Studies",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Mbale,2025-04-12,2026-11-09
+1782,110,nche,,"Uganda Management Institute, Mbale Campus",Campus,Campuses,Public,,,,MBALE,2025-04-12,2025-04-12
+1783,111,nche,,"Uganda Christian University, Mbale Campus",Campus,Campuses,Private,,,,MBALE,2025-04-12,2025-04-12
+1784,112,nche,,"Uganda Martyrs University, Mbale Campus",Campus,Campuses,Private,,,,MBALE,2025-04-12,2025-04-12
+1785,113,nche,,"School of Hygiene, Mbale",OTI,"OTI – Registered",Public,,,,MBALE,2025-04-12,2025-04-12
+1786,114,nche,2205,"Uganda Technical College, Elgon",OTI,"Public OTI",Public,,,,Mbale,2025-04-12,2026-11-09
+1787,115,nche,,"Mbale College of Health Sciences",OTI,"OTI – Registered",Public,,,,MBALE,2025-04-12,2025-04-12
+1788,116,nche,2039,"Busitema University, Pallisa Campus",Campus,Campuses,,,PB/CO/2007/440013,2008-01-02,Pallisa,2025-04-12,2026-11-09
+1789,117,nche,2074,"Institute of Agriculture, Business and Technology",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Serere,2025-04-12,2026-11-09
+1790,118,nche,,"East African School of Aviation",OTI,"OTI – Registered",Public,,,,SOROTI,2025-04-12,2025-04-12
+1791,119,nche,2186,"Uganda College of Commerce Soroti",OTI,"OTI – Registered",,,,,Soroti,2025-04-12,2026-11-09
+1792,120,nche,,"Makerere University, Jinja Campus",Campus,Campuses,Public,,,,JINJA,2025-04-12,2025-04-12
+1793,121,nche,,"Global Theological Seminary",OTI,,,,,,Jinja,2025-04-12,2026-11-09
+1794,122,nche,,"Nile Vocational Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,JINJA,2025-04-12,2025-04-12
+1795,123,nche,,"Uganda National Institute for Teacher Education, Kaliro Campus",OTI,"OTI – Registered",Public,,,,KALIRO,2025-04-12,2025-04-12
+1796,124,nche,2038,"Busitema University, Namasagali Campus",Campus,Campuses,,,PB/CO/2007/440011,2008-01-02,Kamuli,2025-04-12,2026-11-09
+1797,125,nche,2174,"Trinity Biblical Institute",OTI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kapchorwa,2025-04-12,2026-11-09
+1798,126,nche,,"St. Joseph’s Kamuli School of Midwifery and Nursing",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KUMI,2025-04-12,2025-04-12
+1799,127,nche,2100,"Kumi University",University,"Provisional License to Operate as University",,,,,Kumi,2025-04-12,2026-11-09
+1800,128,nche,2105,"Livingstone International University",University,"Provisional License to Operate as University",,,,,Mbale,2025-04-12,2026-11-09
+1801,129,nche,2084,"Islamic University in Uganda",University,"University with Separate Act",Public,,,,Mbale,2025-04-12,2026-11-09
+1802,130,nche,2036,"Busitema University, Mbale Campus",Campus,Campuses,,,PB/CO/2007/440012,2008-01-02,Mbale,2025-04-12,2026-11-09
+1803,131,nche,,"Pentecostal Theological College, Mbale",OTI,"Certificate of Classification and Registration",Private,,,,MBALE,2025-04-12,2025-04-12
+1804,132,nche,,"Covenant Bible Institute of Theology",OTI,"Certificate of Classification and Registration",Private,,,,MBALE,2025-04-12,2025-04-12
+1805,133,nche,,"Glide Institute of Science and Technology – Butaleja",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,BUTALEJA,2025-04-12,2025-04-12
+1806,134,nche,2175,"Tropics College of Business and Management",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Iganga,2025-04-12,2026-11-09
+1807,135,nche,2028,"Bon Institute of Business and Technology",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Iganga,2025-04-12,2026-11-09
+1808,136,nche,,"Busitema University-International Institute of Health Sciences Jinja",University,,,,,,Jinja,2025-04-12,2026-11-09
+1809,137,nche,2177,"Uganda Baptist Seminary",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Jinja,2025-04-12,2026-11-09
+1810,138,nche,2173,"The Uganda Hotel and Tourism Training Institute",OTI,"OTI – Registered",,,,,Jinja,2025-04-12,2026-11-09
+1811,139,nche,,"Medical Laboratory Technician’s School",OTI,"OTI – Registered",Public,,,,JINJA,2025-04-12,2025-04-12
+1812,140,nche,,"Jinja School of Nursing and Midwifery",OTI,"OTI – Registered",Public,,,,JINJA,2025-04-12,2025-04-12
+1813,141,nche,,"Ophthalmic Clinical Officers Training School",OTI,"OTI – Registered",Public,,,,JINJA,2025-04-12,2025-04-12
+1814,142,nche,,"Non – Commissioned Officer Academy",OTI,"OTI – Registered",Public,,,,JINJA,2025-04-12,2025-04-12
+1815,143,nche,2111,"Makerere University - Uganda Military Academy Kabamba",University,"Public OTI",Public,,,,Jinja,2025-04-12,2026-11-09
+1816,144,nche,,"Junior Staff College",OTI,"OTI – Registered",Public,,,,JINJA,2025-04-12,2025-04-12
+1817,145,nche,2154,"Senior Command and Staff College",OTI,"Public OTI",Public,,,,Jinja,2025-04-12,2026-11-09
+1818,146,nche,2146,"Queen of Apostles Philosophy Centre, Jinja",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Jinja,2025-04-12,2026-11-09
+1819,147,nche,,"Makerere University Business School, Jinja Campus",Campus,Campuses,Public,,,,JINJA,2025-04-12,2025-04-12
+1820,148,nche,3194,"St. Thomas Aquinas National Major Seminary-Katigondo",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Masaka,2025-04-12,2026-11-09
+1821,149,nche,,"Masaka School of Comprehensive Nursing",OTI,"OTI – Registered",Public,,,,MASAKA,2025-04-12,2025-04-12
+1822,150,nche,,"Mityana Agrovet Institute",OTI,,,,,,Mityana,2025-04-12,2026-11-09
+1823,151,nche,,"Uganda National Institute for Teacher Education, Mubende Campus",OTI,"OTI – Registered",Public,,,,MUBENDE,2025-04-12,2025-04-12
+1824,152,nche,2103,"Limkokwing University of Creative Technology",University,"Provisional License to Operate as University",,,,,Mukono,2025-04-12,2026-11-09
+1825,153,nche,,"St. Francis School of Health Sciences",OTI,,,,,,Mukono,2025-04-12,2026-11-09
+1826,154,nche,,"Kampala centre for Logistics & Transport Studies (KCLTS)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,MUKONO,2025-04-12,2025-04-12
+1827,155,nche,,"Vision for Africa International Christian College",OTI,,,,,,Mukono,2025-04-12,2026-11-09
+1828,156,nche,2182,"Uganda Christian University",University,"Chartered University",,,,,Mukono,2025-04-12,2026-11-09
+1829,157,nche,2153,"Seeta University",University,"Provisional License to Operate as University",,,,,Mukono,2025-04-12,2026-11-09
+1830,158,nche,,"St Mathias Mbuye Agricultural College",OTI,,,,,,Rakai,2025-04-12,2026-11-09
+1831,159,nche,,"Institute of Accountants and Vocational School Kyotera (IAVS)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,RAKAI,2025-04-12,2025-04-12
+1832,160,nche,,"Kyotera College of Business Studies",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,RAKAI,2025-04-12,2025-04-12
+1833,161,nche,2067,"Humanity First Vocational Training Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Budaka,2025-04-12,2026-11-09
+1834,162,nche,,"NESDA Comprehensive Nursing School",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,BUGIRI,2025-04-12,2025-04-12
+1835,163,nche,,"Johnass International College of Health Sciences",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,BUIKWE,2025-04-12,2025-04-12
+1836,164,nche,2032,"Bukalasa Agricultural College",OTI,"Public OTI",Public,,,,Luwero,2025-04-12,2026-11-09
+1837,165,nche,2151,"SASA College of Industrial Design",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Luwero,2025-04-12,2026-11-09
+1838,166,nche,2155,"Shepherd Training College",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Luwero,2025-04-12,2026-11-09
+1839,167,nche,2138,"Ndejje University",University,"Chartered University",,,,,Luwero,2025-04-12,2026-11-09
+1840,168,nche,2030,"Bugema University",University,"Chartered University",,,,,Luwero,2025-04-12,2026-11-09
+1841,169,nche,,"Kampala University, Luweero campus",Campus,Campuses,Private,,,,"MBARARA CITY",2025-04-12,2025-04-12
+1842,170,nche,,"Uganda Management and Technology University (UTAMU), Kungu Campus",Campus,Campuses,Private,,,,"MBARARA CITY",2025-04-12,2025-04-12
+1843,171,nche,,"St. Peter’s University (SPU)",University,,,,,,Luwero,2025-04-12,2026-11-09
+1844,172,nche,,"Salaama Vocational Education Centre",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,LYANTONDE,2025-04-12,2025-04-12
+1845,173,nche,2134,"Muteesa I Royal University",University,"Chartered University",,,,,Masaka,2025-04-12,2026-11-09
+1846,174,nche,,"Uganda Martyrs University, Masaka Campus",Campus,Campuses,Private,,,,MASAKA,2025-04-12,2025-04-12
+1847,175,nche,,"St. Lawrence Villa Maria School of Nursing and Midwifery",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,MASAKA,2025-04-12,2025-04-12
+1848,176,nche,,"Equator University of Science and Technology (Equsat)",University,,,,,,Masaka,2025-04-12,2026-11-09
+1849,177,nche,2008,"African Bible University",University,"Chartered University",,,,,Wakiso,2025-04-12,2026-11-09
+1850,178,nche,,"Ulrika Institute of Home Economics- Ggogonya",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,WAKISO,2025-04-12,2025-04-12
+1851,179,nche,2137,"National Meteorological Training School",OTI,"Public OTI",Public,,,,Wakiso,2025-04-12,2026-11-09
+1852,180,nche,2080,"Institute of Survey and Land Management Entebbe",OTI,"Public OTI",Public,,,,Wakiso,2025-04-12,2026-11-09
+1853,181,nche,2004,"Africa Reformation Theological Seminary",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Wakiso,2025-04-12,2026-11-09
+1854,182,nche,2017,"All Nations Theological College and Seminary",OTI,"Certificate of Classification and Registration",,,,,Wakiso,2025-04-12,2026-11-09
+1855,183,nche,2195,"Uganda Martyrs Seminary, Namugongo",OTI,"Certificate of Classification and Registration",,,,,Wakiso,2025-04-12,2026-11-09
+1856,184,nche,,"Michangelo College of Creative Ats",OTI,,,,,,Wakiso,2025-04-12,2026-11-09
+1857,185,nche,2014,"Afya Na Haki Institute",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Wakiso,2025-04-12,2026-11-09
+1858,186,nche,2097,"Kawempe Community School of Health Sciences",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Wakiso,2025-04-12,2026-11-09
+1859,187,nche,2021,"Apex International University",University,"Provisional License to Operate as University",,,,,Wakiso,2025-04-12,2026-11-09
+1860,188,nche,2066,"Hope Vocational and Technical Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Mpigi,2025-04-12,2026-11-09
+1861,189,nche,2143,"Nsamizi Training Institute of Social Development",OTI,"OTI – Registered",,,,,Mpigi,2025-04-12,2026-11-09
+1862,190,nche,2196,"Uganda Martyrs University",University,"Chartered University",,,,,Mpigi,2025-04-12,2026-11-09
+1863,191,nche,,"St. Joseph Polytechnic Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,MPIGI,2025-04-12,2025-04-12
+1864,192,nche,2056,"Ernest Cook University",University,"Provisional License to Operate as University",,,,,Kampala,2025-04-12,2026-11-09
+1865,193,nche,2034,"Busitema University",University,"Public University",Public,,,,Busia,2025-04-12,2026-11-09
+1866,194,nche,2142,"Nkumba University",University,"Chartered University",,,,,Wakiso,2025-04-12,2026-11-09
+1867,195,nche,2209,"University of Kisubi",University,"Chartered University",,,,,Wakiso,2025-04-12,2026-11-09
+1868,196,nche,2005,"Africa Renewal University",University,"Chartered University",,,,,Wakiso,2025-04-12,2026-11-09
+1869,197,nche,,"Yesu Akwagala Bible College",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,WAKISO,2025-04-12,2025-04-12
+1870,198,nche,,"Word of Life African Bible Institute (WOLABI)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,WAKISO,2025-04-12,2025-04-12
+1871,199,nche,,"Maganjo Institute of Career Education",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,WAKISO,2025-04-12,2025-04-12
+1872,200,nche,2157,"St. Benedict Technical College Kisubi",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Wakiso,2025-04-12,2026-11-09
+1873,201,nche,,"Pearl Crest Hospitality Training Institute",OTI,"Certificate of Classification and Registration",Private,,,,WAKISO,2025-04-12,2025-04-12
+1874,202,nche,,"Westminster Christian Institute Uganda, Rafiki Campus",Campus,Campuses,Private,,,,WAKISO,2025-04-12,2025-04-12
+1875,203,nche,,"YMCA Comprehensive Institute, Buwambo",Campus,Campuses,Private,,,,WAKISO,2025-04-12,2025-04-12
+1876,204,nche,,"Luyanzi Institute of Technology",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,WAKISO,2025-04-12,2025-04-12
+1877,205,nche,,"Uganda Institute of Allied Health and Management Sciences",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1878,206,nche,3195,"St. Mary's National Major Seminary, Ggaba",ODAI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kampala,2025-04-12,2026-11-09
+1879,207,nche,3191,"St. Mbaga National Major Seminary",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kampala,2025-04-12,2026-11-09
+1880,208,nche,,"Uganda Christian University, Kampala Campus",Campus,Campuses,Private,,,,KAMPALA,2025-04-12,2025-04-12
+1881,209,nche,,"Nkumba University, Kampala Campus",Campus,Campuses,Private,,,,KAMPALA,2025-04-12,2025-04-12
+1882,210,nche,2085,"Islamic University in Uganda, Kampala Campus",Campus,Campuses,,,PR/CO/2016/550013,2016-06-27,Kampala,2025-04-12,2026-11-09
+1883,211,nche,,"Islamic University in Uganda, Female Campus",Campus,Campuses,Private,,,,KAMPALA,2025-04-12,2025-04-12
+1884,212,nche,,"Kampala University, Mutundwe Campus",Campus,Campuses,Private,,,,KAMPALA,2025-04-12,2025-04-12
+1885,213,nche,2045,"Cavendish University, Bukoto Campus",Campus,Campuses,,,,,Kampala,2025-04-12,2026-11-09
+1886,214,nche,,"Muteesa 1 Royal University, Kampala Campus Kakeeka",Campus,,,,,,Kampala,2025-04-12,2026-11-09
+1887,215,nche,3192,"Metropolitan International University, Kampala Campus",Campus,Campuses,,,PR/CO/2022/550018,2022-06-14,Kampala,2025-04-12,2026-11-09
+1888,216,nche,2201,"Uganda National Institute of Teacher Education",ODAI,"Other Degree Awarding Institution - Registered",,,,,Kampala,2025-04-12,2026-11-09
+1889,217,nche,,"Unicaf University",University,"Provisional License to Operate as University",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1890,218,nche,,"Lubaga Hospital Training School",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1891,219,nche,,"Mulago School of Radiography",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1892,220,nche,,"Mulago School of Physiotherapy",OTI,,,,,,Kampala,2025-04-12,2026-11-09
+1893,221,nche,,"Mulago School of Occupational Therapy",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1894,222,nche,,"Mulago Medical Laboratory School",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1895,223,nche,2059,"Fisheries Training Institute",OTI,"Public OTI",Public,,,,Kampala,2025-04-12,2026-11-09
+1896,224,nche,,"Butabika School of Psychiatric Nursing",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1897,225,nche,,"Butabika School of Psychiatric Clinical Officers",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1898,226,nche,2129,"Mulago School of Nursing and Midwifery",ODAI,"Public OTI",Public,,,,Kampala,2025-04-12,2026-11-09
+1899,227,nche,,"Nakawa Vocational Training Institute",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1900,228,nche,,"Health Tutors College Mulago",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1901,229,nche,2116,"Management Training and Advisory Centre (MTAC)",OTI,"OTI – Registered",,,,,Kampala,2025-04-12,2026-11-09
+1902,230,nche,2190,"Uganda Institute of Information and Communication Technology",OTI,"OTI – Registered",,,,,Kampala,2025-04-12,2026-11-09
+1903,231,nche,,"Public Health Nurses’ College",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1904,232,nche,,"Medicare Health Professionals College",OTI,"Certificate of Classification and Registration",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1905,233,nche,2081,"Insurance Training College",OTI,"Certificate of Classification and Registration",,,,,Kampala,2025-04-12,2026-11-09
+1906,234,nche,,"Makerere Institute for Social Development",OTI,,,,,,Kampala,2025-04-12,2026-11-09
+1907,235,nche,2135,"Nagenda International Academy of Art and Design",OTI,"Certificate of Classification and Registration",,,,,Kampala,2025-04-12,2026-11-09
+1908,236,nche,2106,"Luigi Giussan Institute of Higher Education",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kampala,2025-04-12,2026-11-09
+1909,237,nche,2016,"Al-Mustafa Islamic College",OTI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kampala,2025-04-12,2026-11-09
+1910,238,nche,,"Eslsca International Business School",ODAI,,,,,,Kampala,2025-04-12,2026-11-09
+1911,239,nche,2217,"Westminister Christian Institute",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kampala,2025-04-12,2026-11-09
+1912,240,nche,,"Institute of Hospice and Palliative Care Uganda",OTI,,,,,,Kampala,2025-04-12,2026-11-09
+1913,241,nche,2131,"Multitech Business School",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kampala,2025-04-12,2026-11-09
+1914,242,nche,2218,"YMCA Comprehensive Institute",ODAI,"Charter to Other Degree Awarding Institution",,,,,Kampala,2025-04-12,2026-11-09
+1915,243,nche,,"Uganda Institute of Allied Health and Management Science (UIAHMS) Mulago",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1916,244,nche,,"Mulago School of Dispensing /Pharmacy",OTI,"OTI – Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1917,245,nche,2002,"Africa Institute of Music",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kampala,2025-04-12,2026-11-09
+1918,246,nche,2152,"Sai Pali Institute of Technology and Management",OTI,"Certificate of Classification and Registration",,,,,Kampala,2025-04-12,2026-11-09
+1919,247,nche,,"Rosa Mystica Business Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1920,248,nche,,"Indian Institute of Health and Allied Sciences (IIAS)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1921,249,nche,,"St. Francis Hospital Nsambya Training School",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1922,250,nche,,"Universal Institute of Graphics and Technology",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1923,251,nche,,"Institute of Forensics and ICT Security",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1924,252,nche,2107,"Makerere Business Institute",OTI,"Certificate of Classification and Registration",,,,,Kampala,2025-04-12,2026-11-09
+1925,253,nche,,"Makland Institute of Business and Management",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1926,254,nche,,"Institute of Social Work and Community Development",OTI,,,,,,Kampala,2025-04-12,2026-11-09
+1927,255,nche,,"Universal Virtual Content Academy (Closed)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1928,256,nche,,"Global Institute of Information Technology and Business",OTI,,,,,,Kampala,2025-04-12,2026-11-09
+1929,257,nche,,"Kampala School of Health Sciences",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1930,258,nche,,"Kampala Institute of Science and Technology",OTI,,,,,,Kampala,2025-04-12,2026-11-09
+1931,259,nche,,"Destiny International Business Institute",OTI,,,,,,Kampala,2025-04-12,2026-11-09
+1932,260,nche,,"Hopenet Training Centre",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1933,261,nche,,"Labour College of East Africa",OTI,,,,,,Kampala,2025-04-12,2026-11-09
+1934,262,nche,,"Kampala Institute of Vocational Training & Business Studies",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1935,263,nche,,"Web Info-Net Institute of Technology",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1936,264,nche,,"East African Professional Counseling Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1937,265,nche,,"Namasuba College of Commerce",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1938,266,nche,,"International Institute of Business and Media Studies",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1939,267,nche,2052,"East African School of Taxation",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kampala,2025-04-12,2026-11-09
+1940,268,nche,,"Meritorious Biz Tech College",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1941,269,nche,2011,"African Population Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kampala,2025-04-12,2026-11-09
+1942,270,nche,2060,"Glad Tidings Bible College",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kampala,2025-04-12,2026-11-09
+1943,271,nche,,"International American Colleges of Health Sciences (LIJIF) (Closed)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1944,272,nche,2078,"Institute of Petroleum Studies Kampala",OTI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kampala,2025-04-12,2026-11-09
+1945,273,nche,,"Techno-Brian (U) Ltd",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1946,274,nche,,"Datamine Technical Business School",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1947,275,nche,2189,"Uganda Institute of Banking and Financial Services",OTI,"Certificate of Classification and Registration",,,,,Kampala,2025-04-12,2026-11-09
+1948,276,nche,2073,"Institute OF Advanced Leadership",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kampala,2025-04-12,2026-11-09
+1949,277,nche,2124,"Mildmay Institute of Health Sciences",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kampala,2025-04-12,2026-11-09
+1950,278,nche,2219,"YWCA Vocational Training Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kampala,2025-04-12,2026-11-09
+1951,279,nche,2023,"Artfield Institute of Design",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kampala,2025-04-12,2026-11-09
+1952,280,nche,,"Makerere Business Training Centre",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1953,281,nche,2087,"Jimmy Sekasi Business Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kampala,2025-04-12,2026-11-09
+1954,282,nche,,"UMCAT School of Journalism and Mass Communication",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1955,283,nche,2029,"Buganda Royal Institute of Business and Technical Education",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kampala,2025-04-12,2026-11-09
+1956,284,nche,2147,"Reformed Theological College",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kampala,2025-04-12,2026-11-09
+1957,285,nche,,"Uganda Catholic Management and Training Institute ( Campus of Uganda Martyrs)",Campus,,,,,,Kampala,2025-04-12,2026-11-09
+1958,286,nche,,"Engineering Management and Innovation Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1959,287,nche,,"Makerere Metropolitan Management Institute (Closed)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1960,288,nche,,"World Wide Training College (Closed)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1961,289,nche,2112,"Makerere University Business School",OTI,"Public OTI",Public,,,,Kampala,2025-04-12,2026-11-09
+1962,290,nche,,"Law Development Centre Kampala",ODAI,"Other Degree Awarding Institution - Registered",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1963,291,nche,,"College of Health Sciences, Makerere University","Constituent College","Constituent College",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1964,292,nche,,"Makerere University College of Agriculture and Environmental Sciences","Constituent College","Constituent College",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1965,293,nche,,"Makerere University College of Business and Management Science","Constituent College","Constituent College",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1966,294,nche,,"Makerere University College of Computing and Information Science","Constituent College","Constituent College",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1967,295,nche,,"Makerere University College of Engineering, design, Art and Technology","Constituent College","Constituent College",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1968,296,nche,,"Makerere University College of Humanities and Social Sciences","Constituent College","Constituent College",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1969,297,nche,,"Makerere University College of Natural Sciences","Constituent College","Constituent College",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1970,298,nche,,"Makerere University College of Veterinary Medicine, Animal Resources and Bio security","Constituent College","Constituent College",Public,,,,KAMPALA,2025-04-12,2025-04-12
+1971,299,nche,2091,"Kampala Evangelical School of Theology",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kampala,2025-04-12,2026-11-09
+1972,300,nche,,"Skills Resource Centre (Closed)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1973,301,nche,,"Ernest Cook Ultra Sound Research and Education Institute",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1974,302,nche,,"Management and Accountancy Training Co. Ltd (Closed)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1975,303,nche,,"The College of Professional Development (Closed)",OTI,"Provisional License to Operate as Other Tertiary Institution",Private,,,,KAMPALA,2025-04-12,2025-04-12
+1976,304,nche,2095,"Kampala University",University,"Chartered University",,,,,Kampala,2025-04-12,2026-11-09
+1977,305,nche,2015,"Aga Khan University",University,"Provisional License to Operate as University",,,,,Kampala,2025-04-12,2026-11-09
+1978,306,nche,2170,"St. Lawrence University",University,"Provisional License to Operate as University",,,,,Kampala,2025-04-12,2026-11-09
+1979,307,nche,2047,"Clarke International University",University,"Chartered University",,,,,Kampala,2025-04-12,2026-11-09
+1980,308,nche,,"Cavendish University",University,,,,,,Kampala,2025-04-12,2026-11-09
+1981,309,nche,2082,"International University of East Africa",University,"Chartered University",,,,,Kampala,2025-04-12,2026-11-09
+1982,310,nche,2214,"Victoria University",University,"Chartered University",,,,,Kampala,2025-04-12,2026-11-09
+1983,311,nche,2098,"King Ceasor University",University,"Chartered University",,,,,Kampala,2025-04-12,2026-11-09
+1984,312,nche,2139,"Nexus International University",University,"Provisional License to Operate as University",,,,,Kampala,2025-04-12,2026-11-09
+1985,313,nche,2206,"Uganda Technology and Management University",University,"Provisional License to Operate as University",,,,,Kampala,2025-04-12,2026-11-09
+1986,314,nche,2083,"Islamic Call University College",University,"Provisional License to Operate as University",,,,,Kampala,2025-04-12,2026-11-09
+1987,315,nche,2171,"Team University",University,"Provisional License to Operate as University",,,,,Kampala,2025-04-12,2026-11-09
+1988,316,nche,,"ISBAT University",University,,,,,,Kampala,2025-04-12,2026-11-09
+1989,317,nche,2024,"Avance International University",University,"Provisional License to Operate as University",,,,,Kampala,2025-04-12,2026-11-09
+1990,318,nche,,"Uganda Management Institute",ODAI,,,,,,Kampala,2025-04-12,2026-11-09
+1991,319,nche,2109,"Makerere University",University,"Public University",Public,,,,Kampala,2025-04-12,2026-11-09
+1992,320,nche,2101,"Kyambogo University",University,"Public University",Public,,,,Kampala,2025-04-12,2026-11-09
+1993,321,nche,2093,"Kampala International University",University,"Chartered University",,,,,Kampala,2025-04-12,2026-11-09
+1994,979,nche,2006,"Africa University of Science and Management",University,"Provisional License to Operate as University",,,,,Kanungu,2026-11-09,2026-11-09
+1995,980,nche,2022,"Archbishop Janan Luwum Theological College",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Gulu,2026-11-09,2026-11-09
+1996,981,nche,2033,"Buloba Teacher Training Institute",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Wakiso,2026-11-09,2026-11-09
+1997,982,nche,2048,"Cornerstone University",University,"Provisional License to Operate as University",,,,,Kampala,2026-11-09,2026-11-09
+1998,983,nche,2050,"Divine International University",University,"Provisional License to Operate as University",,,,,Kabarole,2026-11-09,2026-11-09
+1999,984,nche,2054,"Equator University of Science and Technology",University,"Provisional License to Operate as University",,,,,Masaka,2026-11-09,2026-11-09
+2000,985,nche,2086,"Jeph International University",University,"Provisional License to Operate as University",,,,,Kampala,2026-11-09,2026-11-09
+2001,986,nche,2141,"Nile University",University,"Provisional License to Operate as University",,,,,Arua,2026-11-09,2026-11-09
+2002,987,nche,2161,"St. John Baptist Gaaba Training Institute",ODAI,"Provisional License to Operate as Other Degree Awarding Institution",,,,,Kampala,2026-11-09,2026-11-09
+2003,988,nche,2164,"St. Paul's Teacher's Institute, Nazigo",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Kayunga,2026-11-09,2026-11-09
+2004,989,nche,2172,"Terebinth Bible College",OTI,"Provisional License to Operate as Other Tertiary Institution",,,,,Agago,2026-11-09,2026-11-09
+2005,990,nche,2212,"University of World Mission Frontiers",University,"Provisional License to Operate as University",,,,,Kampala,2026-11-09,2026-11-09
+2006,991,nche,,"Institute of Certified Public Accountants -Uganda",OTI,,,,,,Kampala,2026-11-09,2026-11-09
+2007,992,nche,,"Busoga University Project-Public",University,,,,,,Pallisa,2026-11-09,2026-11-09
+2008,993,nche,,"St. Peters University, Kampala Campus",Campus,,,,,,Kampala,2026-11-09,2026-11-09
+2009,994,nche,,"Ernest Cook Ultrasound Research and Education Institute (Ecurei)",ODAI,,,,,,Kampala,2026-11-09,2026-11-09
+2010,995,nche,,"Uganda Technology and Management University (UTAMU), Kungu Campus",Campus,,,,,,Luwero,2026-11-09,2026-11-09
+2011,996,nche,,"Afrohun One Health Academy",ODAI,,,,,,Kampala,2026-11-09,2026-11-09
+2012,997,nche,,"National Defence College Jinja",ODAI,,,,,,Jinja,2026-11-09,2026-11-09
+2013,998,nche,,"Great Lakes Industrial Institute",OTI,,,,,,Kanungu,2026-11-09,2026-11-09
+2014,999,nche,,"AICM College of Science and Technology",OTI,,,,,,Ibanda,2026-11-09,2026-11-09
+2015,1000,nche,,"Institute of Agriculture, Business and Technology (Agributec)",OTI,,,,,,Serere,2026-11-09,2026-11-09
+2016,1001,nche,,"St Francis College of Health Sciences",OTI,,,,,,Mukono,2026-11-09,2026-11-09
+2017,1002,nche,,"Institute of Leadership – Uganda",OTI,,,,,,Kampala,2026-11-09,2026-11-09
+2018,1003,nche,,"Bishop Stensera Vocational Training College",OTI,,,,,,Masaka,2026-11-09,2026-11-09
+2019,1004,nche,,"Police Training School Kabalye - Masindi",OTI,,,,,,Masindi,2026-11-09,2026-11-09
+2020,1005,nche,,"Mengo Technical Institute",OTI,,,,,,Kampala,2026-11-09,2026-11-09
+2021,1006,nche,,"Uganda Martyrs University- Queen of Apostles Philosophy Jinja",ODAI,,,,,,Jinja,2026-11-09,2026-11-09
+2022,1007,nche,,"Uganda Martyrs University -Queen of Apostles Jinja",ODAI,,,,,,Jinja,2026-11-09,2026-11-09
+2023,1008,nche,2044,"Cavendish University Uganda (Mukono Campus)",Campus,Campuses,,,PR/CO/2025/550020,2025-11-03,Mukono,2026-11-09,2026-11-09
+2024,1009,nche,2089,"Kabale University, Rukungiri Campus",Campus,Campuses,,,PB/CO/2025/440015,2025-08-29,Rukungiri,2026-11-09,2026-11-09
+2025,1010,nche,2096,"Kampala University (Jinja Campus)",Campus,"Chartered University",,,PR/UNCH/2016/000010,2016-03-23,Kampala,2026-11-09,2026-11-09
+2026,1011,nche,2203,"Uganda Pentecostal University, Kampala",University,Campuses,,,PR/CO/2025/550021,2025-11-03,Kampala,2026-11-09,2026-11-09
+2027,1012,tvet-council,,"Defense Forces' Institute of Health Sciences (DFIHS)","Technical College",,Private,Health,,,Jinja,2026-11-09,2026-11-09
+2028,1013,tvet-council,,"Florence Nightingale School of Nursing & Midwifery","Technical College",,Private,Health,,,Kitgum,2026-11-09,2026-11-09
+2029,186,tvet-council,,"Kawempe Community School of Health Sciences","Technical College",,Private,Health,,,Kampala,2026-11-09,2026-11-09
+2030,1014,tvet-council,,"Mansoor College of Health Sciences","Technical College",,Private,Health,,,Kampala,2026-11-09,2026-11-09
+2031,1015,tvet-council,,"MOSAF Institute of Health Sciences","Technical College",,Private,Health,,,Bugiri,2026-11-09,2026-11-09
+2032,1016,tvet-council,,"Akalo School of Nursing and Midwifery","Vocational Training Institute",,Private,Health,,,Kole,2026-11-09,2026-11-09
+2033,1017,tvet-council,,"Kampala Paremedix Institute Ltd","Vocational Training Institute",,Private,Health,,,Kampala,2026-11-09,2026-11-09
+2034,1018,tvet-council,,"Luziibangi International Health School (LIHS)","Vocational Training Institute",,Private,Health,,,Mityana,2026-11-09,2026-11-09
+2035,1019,tvet-council,,"Mother Mary School of Health Sciences","Vocational Training Institute",,Private,Health,,,Serere,2026-11-09,2026-11-09
+2036,1020,tvet-council,,"Soroti School of Health Science","Vocational Training Institute",,Private,Health,,,Soroti,2026-11-09,2026-11-09
+2037,47,tvet-council,,"African Ark College of Management Sciences","Technical College",,Private,Non-Health,,,Kasese,2026-11-09,2026-11-09
+2038,1021,tvet-council,,"Agributec-Billington College","Technical College",,Private,Non-Health,,,Serere,2026-11-09,2026-11-09
+2039,1022,tvet-council,,"Ankole Institute of Business and Vocational Studies Mbarara Campus","Technical College",,Private,Non-Health,,,Mbarara,2026-11-09,2026-11-09
+2040,279,tvet-council,,"Artfield Institute of Design","Technical College",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2041,1023,tvet-council,,"Boona School of Journalism and Vocational Studies","Technical College",,Private,Non-Health,,,Rukungiri,2026-11-09,2026-11-09
+2042,1024,tvet-council,,"Bridge Institute of Information Technology","Technical College",,Private,Non-Health,,,"Fort Portal",2026-11-09,2026-11-09
+2043,1025,tvet-council,,"Busoga International Polytechnic","Technical College",,Private,Non-Health,,,Jinja,2026-11-09,2026-11-09
+2044,1026,tvet-council,,"Falcon Aviation and Vocational Business Institute","Technical College",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2045,1027,tvet-council,,"Franciscan Brothers Adraa Agriculture College","Technical College",,Private,Non-Health,,,"Nebbi District",2026-11-09,2026-11-09
+2046,1028,tvet-council,,"Global Institute of IT and Business Studies Makerere","Technical College",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2047,1029,tvet-council,,"Green Bridge Schools of open Technologies","Technical College",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2048,1030,tvet-council,,"Isabel Mateo’s Technical Institute","Technical College",,Private,Non-Health,,,Yumbe,2026-11-09,2026-11-09
+2049,26,tvet-council,,"Kabalega College Masindi","Technical College",,Private,Non-Health,,,Masindi,2026-11-09,2026-11-09
+2050,1031,tvet-council,,"Kakoba College of Computer and Business Studies","Technical College",,Private,Non-Health,,,Mbarara,2026-11-09,2026-11-09
+2051,1032,tvet-council,,"KAL Institute of Technical and Vocational Institute","Technical College",,Private,Non-Health,,,Mukono,2026-11-09,2026-11-09
+2052,1033,tvet-council,,"KENTIM Institute of Innovation Science and Technology","Technical College",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2053,1034,tvet-council,,"Kitgum Agriculture and Vocational Institute","Technical College",,Private,Non-Health,,,Kitgum,2026-11-09,2026-11-09
+2054,68,tvet-council,,"Kitgum Business Institute","Technical College",,Private,Non-Health,,,Kitgum,2026-11-09,2026-11-09
+2055,1035,tvet-council,,"Lady Valeria Vocational and Business College","Technical College",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2056,204,tvet-council,,"Luyanzi Institute of Technology","Technical College",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2057,1036,tvet-council,,"Makerere Institute of Commerce and Vocational Studies","Technical College",,Private,Non-Health,,,Bushenyi,2026-11-09,2026-11-09
+2058,1037,tvet-council,,"Malaika Vocational and Business Institute","Technical College",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2059,265,tvet-council,,"Namasuba College of Commerce","Technical College",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2060,1038,tvet-council,,"North Ankole Technical Institute","Technical College",,Private,Non-Health,,,Kazo,2026-11-09,2026-11-09
+2061,1039,tvet-council,,"RAPTECH Institute of Business and Technology","Technical College",,Private,Non-Health,,,Ntungamo,2026-11-09,2026-11-09
+2062,1040,tvet-council,,"Rwashamairwe Vocational Institute (RVI)","Technical College",,Private,Non-Health,,,Ntungamo,2026-11-09,2026-11-09
+2063,1041,tvet-council,,"Rwenzori College of Commerce","Technical College",,Private,Non-Health,,,Kasese,2026-11-09,2026-11-09
+2064,1042,tvet-council,,"Soroti School of Business","Technical College",,Private,Non-Health,,,Soroti,2026-11-09,2026-11-09
+2065,1043,tvet-council,,"YMCA College of Business Studies","Technical College",,Private,Non-Health,,,Jinja,2026-11-09,2026-11-09
+2066,1044,tvet-council,,"Abia Skills Development and Training Centre","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2067,1045,tvet-council,,"Adilang Vocational Institute","Vocational Training Institute",,Private,Non-Health,,,Agago,2026-11-09,2026-11-09
+2068,1046,tvet-council,,"Adwoki Technical School","Vocational Training Institute",,Private,Non-Health,,,Dokolo,2026-11-09,2026-11-09
+2069,1047,tvet-council,,"Alpha Training School Kumi","Vocational Training Institute",,Private,Non-Health,,,Kumi,2026-11-09,2026-11-09
+2070,1048,tvet-council,,"Bake for Life College for Business and Vocational Training","Vocational Training Institute",,Private,Non-Health,,,Tororo,2026-11-09,2026-11-09
+2071,1049,tvet-council,,"Benedictine Vocational Training and Production Centre","Vocational Training Institute",,Private,Non-Health,,,Tororo,2026-11-09,2026-11-09
+2072,1050,tvet-council,,"Billington Vocational Training Centre","Vocational Training Institute",,Private,Non-Health,,,Serere,2026-11-09,2026-11-09
+2073,1051,tvet-council,,"Bududa Vocational Academy","Vocational Training Institute",,Private,Non-Health,,,Bududa,2026-11-09,2026-11-09
+2074,1052,tvet-council,,"Bukedea Comprehensive Technical School","Vocational Training Institute",,Private,Non-Health,,,Bukedea,2026-11-09,2026-11-09
+2075,1053,tvet-council,,"Buloba Business Technical & Vocational Institute","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2076,1054,tvet-council,,"Canon Beatrice Ruhindi Training Centre","Vocational Training Institute",,Private,Non-Health,,,Rukungiri,2026-11-09,2026-11-09
+2077,1055,tvet-council,,"Career Institute","Vocational Training Institute",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2078,1056,tvet-council,,"CIDI Training Centre for Gardening and Landscaping","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2079,1057,tvet-council,,"Comboni Technical School","Vocational Training Institute",,Private,Non-Health,,,Nebbi,2026-11-09,2026-11-09
+2080,1058,tvet-council,,"Connect Africa Vocational Institute","Vocational Training Institute",,Private,Non-Health,,,Mukono,2026-11-09,2026-11-09
+2081,1059,tvet-council,,"Daniel Comboni Vocational Institute","Vocational Training Institute",,Private,Non-Health,,,Gulu,2026-11-09,2026-11-09
+2082,1060,tvet-council,,"East School of Skills Institute","Vocational Training Institute",,Private,Non-Health,,,Bugiri,2026-11-09,2026-11-09
+2083,1061,tvet-council,,"Entebbe College of Business and Vocational Studies","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2084,1062,tvet-council,,"Friends of Agribusiness Management and Entrepreneurship Training Institute (FAME)","Vocational Training Institute",,Private,Non-Health,,,Mayuge,2026-11-09,2026-11-09
+2085,1063,tvet-council,,"Gayaza Technical and skills Development Centre","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2086,1064,tvet-council,,"Green Globe Institute of Applied Sciences","Vocational Training Institute",,Private,Non-Health,,,Gulu,2026-11-09,2026-11-09
+2087,1065,tvet-council,,"Harvan International Institute of Business and Vocational Studies","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2088,1066,tvet-council,,"Holy Cross Centre for Community Empowerment","Vocational Training Institute",,Private,Non-Health,,,Jinja,2026-11-09,2026-11-09
+2089,1067,tvet-council,,"Ibanda Muko Vocational School Ltd","Vocational Training Institute",,Private,Non-Health,,,Ibanda,2026-11-09,2026-11-09
+2090,1068,tvet-council,,"Iganga Business and Technical Institute","Vocational Training Institute",,Private,Non-Health,,,Iganga,2026-11-09,2026-11-09
+2091,1069,tvet-council,,"Iganga Multipurpose Vocational and Business Institute","Vocational Training Institute",,Private,Non-Health,,,Iganga,2026-11-09,2026-11-09
+2092,1070,tvet-council,,"Innovative Institute of Agriculture Business and Capacity Building – Kigumba","Vocational Training Institute",,Private,Non-Health,,,Kiryandongo,2026-11-09,2026-11-09
+2093,1071,tvet-council,,"JAMIGO Vocational Training Institute","Vocational Training Institute",,Private,Non-Health,,,Palisa,2026-11-09,2026-11-09
+2094,1072,tvet-council,,"JJ Excel College","Vocational Training Institute",,Private,Non-Health,,,Bushenyi,2026-11-09,2026-11-09
+2095,1073,tvet-council,,"Johnes Vocational Training Institute Goma","Vocational Training Institute",,Private,Non-Health,,,Mukono,2026-11-09,2026-11-09
+2096,1074,tvet-council,,"Kakoba Business Institute and Vocational Studies","Vocational Training Institute",,Private,Non-Health,,,Mbarara,2026-11-09,2026-11-09
+2097,1075,tvet-council,,"Kampala Polytechnic Mengo","Vocational Training Institute",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2098,1076,tvet-council,,"KATGO Vocational Training Institute","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2099,1077,tvet-council,,"Keba Business and Vocational Institute","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2100,1078,tvet-council,,"Koboko Technical Institute","Vocational Training Institute",,Private,Non-Health,,,Koboko,2026-11-09,2026-11-09
+2101,1079,tvet-council,,"Kyadondo Technical Institute","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2102,1080,tvet-council,,"Kyeizooba Technical and Business Institute","Vocational Training Institute",,Private,Non-Health,,,Bushenyi,2026-11-09,2026-11-09
+2103,1081,tvet-council,,"Kyoga Institute of Management and Business Studies","Vocational Training Institute",,Private,Non-Health,,,Amolatar,2026-11-09,2026-11-09
+2104,1082,tvet-council,,"Liberty College of Management and Journalism","Vocational Training Institute",,Private,Non-Health,,,Kasese,2026-11-09,2026-11-09
+2105,1083,tvet-council,,"Makerere Institute of Technology","Vocational Training Institute",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2106,1084,tvet-council,,"Makindye Institute for Social Development","Vocational Training Institute",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2107,1085,tvet-council,,"Mamita Technical and Business Management Institute","Vocational Training Institute",,Private,Non-Health,,,Mbarara,2026-11-09,2026-11-09
+2108,1086,tvet-council,,"Mbale Municipality Community Polytechnic","Vocational Training Institute",,Private,Non-Health,,,Mbale,2026-11-09,2026-11-09
+2109,1087,tvet-council,,"Mbarara Community Institute","Vocational Training Institute",,Private,Non-Health,,,Mbarara,2026-11-09,2026-11-09
+2110,1088,tvet-council,,"Mbarara Comprehensive College and Business Studies","Vocational Training Institute",,Private,Non-Health,,,Mbarara,2026-11-09,2026-11-09
+2111,1089,tvet-council,,"Mengo Technical and Business Institute Nansana","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2112,1090,tvet-council,,"MIFA Ebenezer Vocational Centre - MEVOC","Vocational Training Institute",,Private,Non-Health,,,Mukono,2026-11-09,2026-11-09
+2113,1091,tvet-council,,"Mitooma Institute of Business and Management","Vocational Training Institute",,Private,Non-Health,,,Mitooma,2026-11-09,2026-11-09
+2114,1092,tvet-council,,"Mukono Technical and Business Institute","Vocational Training Institute",,Private,Non-Health,,,Mukono,2026-11-09,2026-11-09
+2115,1093,tvet-council,,"Mulagi Vocational Training Institute","Vocational Training Institute",,Private,Non-Health,,,Tororo,2026-11-09,2026-11-09
+2116,1094,tvet-council,,"Namulanda Technical Institute","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2117,1095,tvet-council,,"Ntungamo Applied Studies Institute","Vocational Training Institute",,Private,Non-Health,,,Ntungamo,2026-11-09,2026-11-09
+2118,1096,tvet-council,,"Obutava Community Vocational Institute","Vocational Training Institute",,Private,Non-Health,,,Maracha,2026-11-09,2026-11-09
+2119,1097,tvet-council,,"Pioneer Technical Institute","Vocational Training Institute",,Private,Non-Health,,,Iganga,2026-11-09,2026-11-09
+2120,1098,tvet-council,,"Pride Agriculture and Technical Institute","Vocational Training Institute",,Private,Non-Health,,,"Arua City",2026-11-09,2026-11-09
+2121,1099,tvet-council,,"Prime Vocational Institute","Vocational Training Institute",,Private,Non-Health,,,Iganga,2026-11-09,2026-11-09
+2122,1100,tvet-council,,"REHH Vocational Training Institute","Vocational Training Institute",,Private,Non-Health,,,Soroti,2026-11-09,2026-11-09
+2123,1101,tvet-council,,"Rutooma Vocational Training Centre","Vocational Training Institute",,Private,Non-Health,,,Rukungiri,2026-11-09,2026-11-09
+2124,1102,tvet-council,,"Spear Motors Apprenticeship Training Centre","Vocational Training Institute",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2125,1103,tvet-council,,"Spice Vocational Institute- Rubirizi","Vocational Training Institute",,Private,Non-Health,,,Rubirizi,2026-11-09,2026-11-09
+2126,1104,tvet-council,,"St Lawrence VTI Anyiivu","Vocational Training Institute",,Private,Non-Health,,,Maracha,2026-11-09,2026-11-09
+2127,1105,tvet-council,,"St. Claret VTI","Vocational Training Institute",,Private,Non-Health,,,Luuka,2026-11-09,2026-11-09
+2128,1106,tvet-council,,"St. Daniel Comboni Polytechnic Naoi","Vocational Training Institute",,Private,Non-Health,,,Moroto,2026-11-09,2026-11-09
+2129,1107,tvet-council,,"St. Dennis Vocational Training Centre","Vocational Training Institute",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2130,1108,tvet-council,,"St. Joseph’s Technical and Vocational School","Vocational Training Institute",,Private,Non-Health,,,Arua,2026-11-09,2026-11-09
+2131,1109,tvet-council,,"ST. Joseph’s Technical Institute-Virika","Vocational Training Institute",,Private,Non-Health,,,"Fort Portal",2026-11-09,2026-11-09
+2132,1110,tvet-council,,"St. Joseph’s Technical School-Gulu","Vocational Training Institute",,Private,Non-Health,,,Gulu,2026-11-09,2026-11-09
+2133,1111,tvet-council,,"St. Jude Thadeo Vocational Training Institute","Vocational Training Institute",,Private,Non-Health,,,Bushenyi,2026-11-09,2026-11-09
+2134,1112,tvet-council,,"St. Maria Goreti Vocational Institute","Vocational Training Institute",,Private,Non-Health,,,Mukono,2026-11-09,2026-11-09
+2135,1113,tvet-council,,"St. Matia Mulumba Polytechnic Institute","Vocational Training Institute",,Private,Non-Health,,,Jinja,2026-11-09,2026-11-09
+2136,1114,tvet-council,,"St. Monica’s Girls Tailoring Centre","Vocational Training Institute",,Private,Non-Health,,,Gulu,2026-11-09,2026-11-09
+2137,1115,tvet-council,,"St. Pius Vocational and Skilling Centre-Bufuli","Vocational Training Institute",,Private,Non-Health,,,Mayuge,2026-11-09,2026-11-09
+2138,1116,tvet-council,,"Tiner Vocational Skills College","Vocational Training Institute",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2139,1117,tvet-council,,"Trinity Comprehensive College","Vocational Training Institute",,Private,Non-Health,,,Ntungamo,2026-11-09,2026-11-09
+2140,1118,tvet-council,,"Vocational Training Institute Soroti","Vocational Training Institute",,Private,Non-Health,,,Soroti,2026-11-09,2026-11-09
+2141,1119,tvet-council,,"Western Institute of Vocational and Business Science","Vocational Training Institute",,Private,Non-Health,,,Bushenyi,2026-11-09,2026-11-09
+2142,1120,tvet-council,,"Yumbe Business Management Institute","Vocational Training Institute",,Private,Non-Health,,,Yumbe,2026-11-09,2026-11-09
+2143,1121,tvet-council,,"Cielo Eco Farm and Agribusiness development centre","Skills Development Centre",,Private,Non-Health,,,Bushenyi,2026-11-09,2026-11-09
+2144,1122,tvet-council,,"Copenhagen International Institute of Catering and Hotel Management","Skills Development Centre",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2145,1123,tvet-council,,"Grace Vocational Training Institute","Skills Development Centre",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2146,1124,tvet-council,,"Hope shine Vocational Training Institute","Skills Development Centre",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2147,1125,tvet-council,,"Ibanda Kibubura Skills Development Centre","Skills Development Centre",,Private,Non-Health,,,Ibanda,2026-11-09,2026-11-09
+2148,1126,tvet-council,,"Implicit effect Community initiative","Skills Development Centre",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2149,1127,tvet-council,,"JART Africa Multi Skilling Centre Limited","Skills Development Centre",,Private,Non-Health,,,Yumbe,2026-11-09,2026-11-09
+2150,1128,tvet-council,,"Ko-Hoshiko Services","Skills Development Centre",,Private,Non-Health,,,Kampala,2026-11-09,2026-11-09
+2151,1129,tvet-council,,"Kyaka II Vocational Skill Training Centre","Skills Development Centre",,Private,Non-Health,,,Kyegegwa,2026-11-09,2026-11-09
+2152,1130,tvet-council,,"Massio Hill Vocational School","Skills Development Centre",,Private,Non-Health,,,Terego,2026-11-09,2026-11-09
+2153,1131,tvet-council,,"Matany Girls’ Vocational School","Skills Development Centre",,Private,Non-Health,,,Napak,2026-11-09,2026-11-09
+2154,1132,tvet-council,,"Nangabo Vocational Institute","Skills Development Centre",,Private,Non-Health,,,Wakiso,2026-11-09,2026-11-09
+2155,1133,tvet-council,,"Pentecostal Assemblies of God Polytechnic School","Skills Development Centre",,Private,Non-Health,,,"Moyo District",2026-11-09,2026-11-09
+2156,1134,tvet-council,,"Vision for Africa International Vocational Institute","Skills Development Centre",,Private,Non-Health,,,Buikwe,2026-11-09,2026-11-09
+2157,69,moes-tvet,UTCL,"Uganda Technical College Lira",College,Registered,Government,"Technical and Polytechnic Education and Training",UTCL001,,Lira,2026-11-09,2026-11-09
+2158,164,moes-tvet,BAC,"Bukalasa Agricultural College",College,Registered,Government,"Technical and Polytechnic Education and Training",BAC001,,Luweero,2026-11-09,2026-11-09
+2159,114,moes-tvet,UTCE,"Uganda Technical College Elgon",College,Registered,Government,"Technical and Polytechnic Education and Training",UTCE001,,"Mbale City",2026-11-09,2026-11-09
+2160,42,moes-tvet,UTCK,"Uganda Technical College Kichwamba",College,Registered,Government,"Technical and Polytechnic Education and Training",UTCK001,,"Fort Portal City",2026-11-09,2026-11-09
+2161,50,moes-tvet,UTCB,"Uganda Technical College Bushenyi",College,Registered,Government,"Technical and Polytechnic Education and Training",UTCB001,,Bushenyi,2026-11-09,2026-11-09
+2162,32,moes-tvet,UPIK,"Uganda Petroleum Institute Kigumba",College,Registered,Government,"Technical and Polytechnic Education and Training","2011 No.31",,Kiryandongo,2026-11-09,2026-11-09
+2163,1135,moes-tvet,KTI,"Kitgum Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",KTI001,,Kitgum,2026-11-09,2026-11-09
+2164,1136,moes-tvet,KATI,"Kalongo Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT024,,Agago,2026-11-09,2026-11-09
+2165,1137,moes-tvet,OTI,"Ora Technical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",OTI001,,Zombo,2026-11-09,2026-11-09
+2166,1138,moes-tvet,SFI,"Ssese Farm Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",SFI001,,Kalangala,2026-11-09,2026-11-09
+2167,1139,moes-tvet,KBTI,"Kaberamaido Technical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",KBTI001,,Kaberamaido,2026-11-09,2026-11-09
+2168,19,moes-tvet,RFI,"Rwentanga Farm Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",RFI001,,Mbarara,2026-11-09,2026-11-09
+2169,1140,moes-tvet,KRTI,"Karera Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",8024,,Sheema,2026-11-09,2026-11-09
+2170,1141,moes-tvet,NTI,"Nyamitanga Technical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",NTI001,,Mbarara,2026-11-09,2026-11-09
+2171,1142,moes-tvet,LKT,"Lake Katwe Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",LKT001,,Kasese,2026-11-09,2026-11-09
+2172,1143,moes-tvet,BTI,"Butaleja Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",BTI001,,Butaleja,2026-11-09,2026-11-09
+2173,1144,moes-tvet,KSTI,"Kasodo Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",KSTI001,,Pallisa,2026-11-09,2026-11-09
+2174,1145,moes-tvet,KLTI,"Kaliro Technical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",KLTI001,,Kaliro,2026-11-09,2026-11-09
+2175,1146,moes-tvet,NVTI,"Ntinda Vocational Training Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",218000,,Kampala,2026-11-09,2026-11-09
+2176,1147,moes-tvet,NVTC,"Nakawa Vocational Training College","Vocational Training Institute",Registered,Government,"Business and Social Development Education and Training",NVTC3800,,Kampala,2026-11-09,2026-11-09
+2177,1148,moes-tvet,KVTI,"Kazo Vocational Training Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",KVTI001,,Kazo,2026-11-09,2026-11-09
+2178,1149,moes-tvet,LVTI,"Lugogo Vocational Training Institute","Vocational Training Institute",Registered,Government,"Business and Social Development Education and Training",4A138002,,Kampala,2026-11-09,2026-11-09
+2179,1150,moes-tvet,"MINAKULU TI","Minakulu Technical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",MINAKULU,,Oyam,2026-11-09,2026-11-09
+2180,1151,moes-tvet,"St Kizito.T.S","St Kizito Technical School - Mabonwa","Skills Development Centre",Registered,Government,"Vocational Education and Training",AA000038,,Ibanda,2026-11-09,2026-11-09
+2181,1152,moes-tvet,AATI,"Amugo Agro Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",AATI,,Alebtong,2026-11-09,2026-11-09
+2182,1153,moes-tvet,BTS,"Barinyanga Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training","EMIS 358002",,Tororo,2026-11-09,2026-11-09
+2183,1154,moes-tvet,PCP,"Pacer Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",PCP,,Pakwach,2026-11-09,2026-11-09
+2184,1155,moes-tvet,IPI,"Ihunga Polytechnic Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",IPI,,Ntungamo,2026-11-09,2026-11-09
+2185,1156,moes-tvet,KihihiCp,"Kihiihi Community Polytechic","Skills Development Centre",Registered,Government,"Vocational Education and Training",CP0007,,Kanungu,2026-11-09,2026-11-09
+2186,1157,moes-tvet,LCP,"Lutunku Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",UBT150,,Ssembabule,2026-11-09,2026-11-09
+2187,1158,moes-tvet,"Kiryandongo T I","Kiryandongo Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",KTI,,Kiryandongo,2026-11-09,2026-11-09
+2188,1159,moes-tvet,BATI,"Barlonyo Agro Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",4A208001,,Lira,2026-11-09,2026-11-09
+2189,1160,moes-tvet,"Lwengo T I","Lwengo Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT266,,Lwengo,2026-11-09,2026-11-09
+2190,33,moes-tvet,UCCK,"Uganda Co-operative College Kigumba",College,Registered,Government,"Business and Social Development Education and Training",ucck,,Kiryandongo,2026-11-09,2026-11-09
+2191,1161,moes-tvet,RTS,"Rweiziringiro Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",RTS,,Isingiro,2026-11-09,2026-11-09
+2192,1162,moes-tvet,MCP,"Mubende Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",CP0010,,Mubende,2026-11-09,2026-11-09
+2193,1163,moes-tvet,SJTSK,"St. Joseph Technical School - Kyarubingo","Skills Development Centre",Registered,Government,"Vocational Education and Training",PTS/S/75,,Kitagwenda,2026-11-09,2026-11-09
+2194,1164,moes-tvet,SJTI,"St Joseph Kyamulibwa Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",98009,,Kalungu,2026-11-09,2026-11-09
+2195,1165,moes-tvet,RTI,"Rukungiri Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training","5500143 PTS/S/13",,Rukungiri,2026-11-09,2026-11-09
+2196,1166,moes-tvet,K.T.I,"Kibatsi Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT070,,Ntungamo,2026-11-09,2026-11-09
+2197,1167,moes-tvet,KTS,"Kapchorwa Technical School","Vocational Training Institute",Registered,Government,"Vocational Education and Training",158001,,Kapchorwa,2026-11-09,2026-11-09
+2198,1168,moes-tvet,CNEAMTI,"Col. Nasur Ezaruku Amin Memorial Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",cneamti,,Yumbe,2026-11-09,2026-11-09
+2199,1169,moes-tvet,NTI85,"Nyamango Technical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",4A488001,,Kyenjojo,2026-11-09,2026-11-09
+2200,1170,moes-tvet,"Nakaseke T I","Nakaseke Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training","UBT 2T3",,Nakaseke,2026-11-09,2026-11-09
+2201,1171,moes-tvet,"Kizinga T S","Kizinga Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",5120154,,Kabale,2026-11-09,2026-11-09
+2202,1172,moes-tvet,BCP,"Bbowa Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",21800,,Luweero,2026-11-09,2026-11-09
+2203,1173,moes-tvet,"Kisomoro T I","Kisomoro Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",80245,,Bunyangabu,2026-11-09,2026-11-09
+2204,1174,moes-tvet,WTS,"Wera Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",4A668001,,Amuria,2026-11-09,2026-11-09
+2205,1175,moes-tvet,Ubt251,"Amelo Technical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",UBT251,,Adjumani,2026-11-09,2026-11-09
+2206,1176,moes-tvet,NMTI,"Nkoko Memorial Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",NKOKOMTI,,Mayuge,2026-11-09,2026-11-09
+2207,1177,moes-tvet,LTI,"Lyantonde Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",LTI,,Lyantonde,2026-11-09,2026-11-09
+2208,1178,moes-tvet,ASMTI,"Ahamed Seguya Memorial Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training","EMIS 498000",,Kayunga,2026-11-09,2026-11-09
+2209,1179,moes-tvet,TRT5560101,"Lokopio Hills Technical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",TRT5560101,,Yumbe,2026-11-09,2026-11-09
+2210,1180,moes-tvet,"Kam Tech","Kammengo Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",4A328000,,Rakai,2026-11-09,2026-11-09
+2211,1181,moes-tvet,"st.Kizito TI Madera","St. Kizito Technical Institute - Madera","Vocational Training Institute",Registered,Government,"Vocational Education and Training",218001,,Soroti,2026-11-09,2026-11-09
+2212,1182,moes-tvet,"Kihanda T S","Kihanda Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",KTS,,Kanungu,2026-11-09,2026-11-09
+2213,1183,moes-tvet,BNMTI,"Basoga Nsadhu Memorial Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",798000,,Namutumba,2026-11-09,2026-11-09
+2214,100,moes-tvet,"UCC Tororo","Uganda College Of Commerce Tororo",College,Registered,Government,"Business and Social Development Education and Training",358015,,Tororo,2026-11-09,2026-11-09
+2215,1184,moes-tvet,"Bamunanika TI","Bamunanika Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",BTI,,Luweero,2026-11-09,2026-11-09
+2216,1185,moes-tvet,ITI,"Iganga Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",80081,,Iganga,2026-11-09,2026-11-09
+2217,1186,moes-tvet,"Kakiika TI","Kakiika Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training","EMIS 4A258004",,"Mbarara City",2026-11-09,2026-11-09
+2218,1187,moes-tvet,"Nalwire TI","Nalwire Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",8027,,Busia,2026-11-09,2026-11-09
+2219,6,moes-tvet,"UTC Kyema","Uganda Technical College Kyema",College,Registered,Government,"Technical and Polytechnic Education and Training","UTC Kyema",,Masindi,2026-11-09,2026-11-09
+2220,1188,moes-tvet,DTS,"Dokolo Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",DTS,,Dokolo,2026-11-09,2026-11-09
+2221,189,moes-tvet,NTISD,"Nsamizi Training Institute for Social Development",College,Registered,Government,"Business and Social Development Education and Training",NTISD,,Mpigi,2026-11-09,2026-11-09
+2222,1189,moes-tvet,OKWATI,"Okwang Technical Institute - Otuke","Vocational Training Institute",Registered,Government,"Vocational Education and Training",OKWATI,,Otuke,2026-11-09,2026-11-09
+2223,1190,moes-tvet,PDNMTI,"Professor Dan Nabudere Memorial Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",PDNMTI,,Sironko,2026-11-09,2026-11-09
+2224,180,moes-tvet,ISLM,"Institute of Survey and Land Management",College,Registered,Government,"Technical and Polytechnic Education and Training","UBV 007",,Wakiso,2026-11-09,2026-11-09
+2225,5,moes-tvet,"UCC Pakwach","Uganda College Of Commerce Pakwach",College,Registered,Government,"Business and Social Development Education and Training",5A121803,,Pakwach,2026-11-09,2026-11-09
+2226,1191,moes-tvet,SPBTI,"St Peters Bukalagi Technical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training","UBT 076",,Gomba,2026-11-09,2026-11-09
+2227,1192,moes-tvet,"Tororo TI","Tororo Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training","UBT O82",,Tororo,2026-11-09,2026-11-09
+2228,1193,moes-tvet,STI,"Sasiira Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",8067,,Nakasongola,2026-11-09,2026-11-09
+2229,1194,moes-tvet,OCP,"Olio Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",OCP,,Serere,2026-11-09,2026-11-09
+2230,1195,moes-tvet,"Kabira T I","Kabira Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training","Kabira TI",,Mitooma,2026-11-09,2026-11-09
+2231,1196,moes-tvet,430293,"Katakwi Technical School","Skills Development Centre",Registered,Government,"Technical and Polytechnic Education and Training",12499,,Katakwi,2026-11-09,2026-11-09
+2232,1197,moes-tvet,4A120800,"Namisindwa Technical School","Skills Development Centre",Registered,Government,"Technical and Polytechnic Education and Training",UBT057,,Namisindwa,2026-11-09,2026-11-09
+2233,1198,moes-tvet,8040,"Kaabong Technical Instutite","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",618000,,Kaabong,2026-11-09,2026-11-09
+2234,1199,moes-tvet,"Nyakataret T I","Nyakatare Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",NKTI,,Kanungu,2026-11-09,2026-11-09
+2235,1200,moes-tvet,"Bumbaire TI","Bumbaire Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training","UBT 209",,Bushenyi,2026-11-09,2026-11-09
+2236,1201,moes-tvet,"UBT 025","Moyo Tehnical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training",278001,,Moyo,2026-11-09,2026-11-09
+2237,1202,moes-tvet,"Bukedea TI","Bukedea Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",00000,,Bukedea,2026-11-09,2026-11-09
+2238,1203,moes-tvet,GCP,"Gombe Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",0000,,Wakiso,2026-11-09,2026-11-09
+2239,1204,moes-tvet,"Obyen CP","Obyen Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",OCP123,,Kitgum,2026-11-09,2026-11-09
+2240,1205,moes-tvet,PVS,"Providence Vocational School","Skills Development Centre",Registered,"Faith Based","Vocational Education and Training",TVET/02/P24018,,Nebbi,2026-11-09,2026-11-09
+2241,1206,moes-tvet,838008,"St.Luke Vocational Training Institute-Ngogwe","Vocational Training Institute",Registered,Private,"Vocational Education and Training","WE DONT HAVE",,Buikwe,2026-11-09,2026-11-09
+2242,1207,moes-tvet,KSDC,"Katugunda Skills Development Centre","Skills Development Centre",Registered,Government,"Vocational Education and Training",KSDC,,Bunyangabu,2026-11-09,2026-11-09
+2243,1208,moes-tvet,SJCST,"St Johns College Of Science & Technology","Skills Development Centre",Registered,Private,"Vocational Education and Training",TVET/02/P24016,,"Arua City",2026-11-09,2026-11-09
+2244,1209,moes-tvet,MTIN,"Moroto Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",MTIN,,Napak,2026-11-09,2026-11-09
+2245,1210,moes-tvet,"Rugando TI","Rugando Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",Rugando,,Rwampara,2026-11-09,2026-11-09
+2246,1211,moes-tvet,"Jinja VTI","Jinja Vocational Training Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training","Jinja VTI",,"Jinja City",2026-11-09,2026-11-09
+2247,1212,moes-tvet,"Burora Technical Institute","Burora Techbical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",1984,,Kanungu,2026-11-09,2026-11-09
+2248,1213,moes-tvet,"Buhimba TI","Buhimba Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",TERT509,,Kikuube,2026-11-09,2026-11-09
+2249,1214,moes-tvet,STKTIK,"St Kizito’s Technical Institute – Kitovu","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT029,,"Masaka City",2026-11-09,2026-11-09
+2250,1215,moes-tvet,"Kabasanda TI","Kabasanda Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT021,,Butambala,2026-11-09,2026-11-09
+2251,1216,moes-tvet,"Ogolai TI","Ogolai Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT278,,Amuria,2026-11-09,2026-11-09
+2252,1217,moes-tvet,MMVTI,"Maumbe Mukwana Vocational Training Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",274021,,Mbale,2026-11-09,2026-11-09
+2253,1218,moes-tvet,StJTIK,"St Joseph's Technical Institute - Kisubi","Vocational Training Institute",Registered,Government,"Vocational Education and Training",StJTIK,,Wakiso,2026-11-09,2026-11-09
+2254,1219,moes-tvet,"Kyamuhunga TI","Kyamuhunga Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT054,,Bushenyi,2026-11-09,2026-11-09
+2255,1220,moes-tvet,8057,"Kitagwenda Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",4A475004,,Kitagwenda,2026-11-09,2026-11-09
+2256,1221,moes-tvet,AMTI,"Abia Memorial Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",BTVET/171/280/01,,Alebtong,2026-11-09,2026-11-09
+2257,1222,moes-tvet,vt0006,"Bbira Vocational Training College","Vocational Training Institute",Registered,Private,"Technical and Polytechnic Education and Training",ME/VOC/016,,Wakiso,2026-11-09,2026-11-09
+2258,1223,moes-tvet,ATI,"Abim Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT207,,Abim,2026-11-09,2026-11-09
+2259,1224,moes-tvet,"Nawanyago TI","Nawanyago Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",148000,,Kamuli,2026-11-09,2026-11-09
+2260,1225,moes-tvet,"Rwampara FI","Rwampara Farm Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",Rwampara,,Rwampara,2026-11-09,2026-11-09
+2261,1226,moes-tvet,NYUDC,"Northern Uganda Youth Development Centre","Vocational Training Institute",Registered,Government,"Vocational Education and Training",80241,,Omoro,2026-11-09,2026-11-09
+2262,1227,moes-tvet,NTS,"Nagwere Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",NTS0001,,Butebo,2026-11-09,2026-11-09
+2263,1228,moes-tvet,MMTI,"Mbigiti Memorial Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training","TERT 6240001",,Bugweri,2026-11-09,2026-11-09
+2264,1229,moes-tvet,"Katonga TI","Katonga Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",4A288000,,Mpigi,2026-11-09,2026-11-09
+2265,1230,moes-tvet,ATIR,"Arua Technical Institute, Ragem","Vocational Training Institute",Registered,Government,"Vocational Education and Training",ATIR,,"Arua City",2026-11-09,2026-11-09
+2266,1231,moes-tvet,KFI,"Kitagata Farm Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBV013,,Sheema,2026-11-09,2026-11-09
+2267,1232,moes-tvet,KCTI,"Kakira Community Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",KCTI,,Jinja,2026-11-09,2026-11-09
+2268,1233,moes-tvet,RCP,"Rukore Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",PTI32,,Kabale,2026-11-09,2026-11-09
+2269,1234,moes-tvet,BI,"Balaba Institute","Vocational Training Institute",Registered,"Faith Based","Vocational Education and Training",UVQF/1663,,Wakiso,2026-11-09,2026-11-09
+2270,104,moes-tvet,"UCC Aduku","Uganda College of Commerce -Aduku",College,Registered,Government,"Business and Social Development Education and Training",UBB030,,Kwania,2026-11-09,2026-11-09
+2271,119,moes-tvet,UCC-SRT,"Uganda College of Commerce - Soroti",College,Registered,Government,"Business and Social Development Education and Training",UBBS032,,Soroti,2026-11-09,2026-11-09
+2272,1235,moes-tvet,"SPVTI - Mubende","St. Peter's Vocational Training Institute - Mubende",,Registered,Government,"Technical and Polytechnic Education and Training",EMIS.NO.298001,,Mubende,2026-11-09,2026-11-09
+2273,1236,moes-tvet,"Kotido TI","Kotido Technical Institute","Vocational Training Institute",Registered,Government,"Technical and Polytechnic Education and Training","TERT 5280027",,Kotido,2026-11-09,2026-11-09
+2274,59,moes-tvet,"UCC Kabale","Uganda College of Commerce - Kabale",College,Registered,Government,"Business and Social Development Education and Training","UCC Kabale",,Kabale,2026-11-09,2026-11-09
+2275,1237,moes-tvet,"Inde TS","Inde Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training","EMIS 38267",,Madi-okollo,2026-11-09,2026-11-09
+2276,1238,moes-tvet,UMTIN,"Uganda Martyrs Technical Institute- Nyarushanje","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UMTIN,,Rukungiri,2026-11-09,2026-11-09
+2277,1239,moes-tvet,"Bobi CP","Bobi Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",UBT125,,Omoro,2026-11-09,2026-11-09
+2278,1240,moes-tvet,4A168001,"Kasese Youth Polytechnic","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT212,,Kasese,2026-11-09,2026-11-09
+2279,1241,moes-tvet,"Ngugo TS","Ngugo Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training","NTS 6310512",,Rwampara,2026-11-09,2026-11-09
+2280,1242,moes-tvet,"Kumi TS","Kumi Technical Institute","Skills Development Centre",Registered,Government,"Vocational Education and Training","KUMI TS",,Kumi,2026-11-09,2026-11-09
+2281,1243,moes-tvet,"Bukooli TS","Bukooli Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",EMIST0005,,Bugiri,2026-11-09,2026-11-09
+2282,1244,moes-tvet,"Bukomero TI","Bukomero Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training","Bukomero TI",,Kiboga,2026-11-09,2026-11-09
+2283,1245,moes-tvet,"Nakapiripirit TI","Nakapiripirit Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",NKTI001,,Nakapiripirit,2026-11-09,2026-11-09
+2284,1246,moes-tvet,KLCTI,"Kilak Corner Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training","EMIS NO 518000",,Pader,2026-11-09,2026-11-09
+2285,1247,moes-tvet,OTS,"Omugo Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",A4038002,,Terego,2026-11-09,2026-11-09
+2286,1248,moes-tvet,PTS,"Pajule Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",518001,,Pader,2026-11-09,2026-11-09
+2287,1249,moes-tvet,HCP,"Hakitengya Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",UBT154,,Bundibugyo,2026-11-09,2026-11-09
+2288,1250,moes-tvet,MMCP,"Mbale Municipal Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training",CP0009,,"Mbale City",2026-11-09,2026-11-09
+2289,1251,moes-tvet,NTSK,"St Noe's Technical School - Kyezimbire","Technical School",Registered,"Faith Based","Vocational Education and Training",UBT046,,Isingiro,2026-11-09,2026-11-09
+2290,1252,moes-tvet,05/0081,"Atiak Technical School","Skills Development Centre",Registered,Government,"Technical and Polytechnic Education and Training",UBT037,,Amuru,2026-11-09,2026-11-09
+2291,1253,moes-tvet,"EMIS 0016","Ssanje Community Polytechnic","Skills Development Centre",Registered,Government,"Technical and Polytechnic Education and Training",UBT184,,Kyotera,2026-11-09,2026-11-09
+2292,1254,moes-tvet,62,"St. James kibbuse Vocational Training Centre","Vocational Training Institute",Registered,"Faith Based","Vocational Education and Training",0997786554,,Kibaale,2026-11-09,2026-11-09
+2293,1255,moes-tvet,LMNCP,"Lumino Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training","CP 008",,Busia,2026-11-09,2026-11-09
+2294,1256,moes-tvet,NICA,"National Instructors' College - Abilonino",College,Registered,Government,"Technical and Polytechnic Education and Training",111810,,Kole,2026-11-09,2026-11-09
+2295,1257,moes-tvet,EpelMVTI,"Epel Memorial Vocational Training Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT472,,Katakwi,2026-11-09,2026-11-09
+2296,1258,moes-tvet,MVTC,"Masulita Vocational Training Centre","Skills Development Centre",Registered,Government,"Vocational Education and Training","EMIS 4A538003",,Wakiso,2026-11-09,2026-11-09
+2297,1259,moes-tvet,ITS,"Iyolwa Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",UBT042,,Tororo,2026-11-09,2026-11-09
+2298,1260,moes-tvet,"Kisoro T I","Kisoro Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT036,,Kisoro,2026-11-09,2026-11-09
+2299,1261,moes-tvet,BWMTI,"Birembo War Memorial Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",350029,,Kakumiro,2026-11-09,2026-11-09
+2300,1262,moes-tvet,APACTS,"Apac Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",APAC001,,Apac,2026-11-09,2026-11-09
+2301,1263,moes-tvet,ACABATS,"Acaba Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",UBT060,,Oyam,2026-11-09,2026-11-09
+2302,1264,moes-tvet,MSDC,"Mucwini Skills Development Centre","Skills Development Centre",Registered,Government,"Vocational Education and Training",MSDC,,Kitgum,2026-11-09,2026-11-09
+2303,1265,moes-tvet,EKSDC,"Eria Kategaya Skills Development Centre","Skills Development Centre",Registered,Government,"Vocational Education and Training","TERT 9110441",,Ntungamo,2026-11-09,2026-11-09
+2304,1266,moes-tvet,KabaleTI,"Kabale Technical Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT016,,Kabale,2026-11-09,2026-11-09
+2305,1267,moes-tvet,KCP,"Kadogo Community Polytechnic","Skills Development Centre",Registered,Government,"Vocational Education and Training","Emis 0005",,"Mbarara City",2026-11-09,2026-11-09
+2306,1268,moes-tvet,NamasaleTS,"Namasale Technical School","Skills Development Centre",Registered,Government,"Vocational Education and Training",UBT080,,Amolatar,2026-11-09,2026-11-09
+2307,1269,moes-tvet,EKKVTI,"Engineer Kauliza Kasadha Vocational Training Institute","Vocational Training Institute",Registered,Government,"Vocational Education and Training",UBT482,,Bugiri,2026-11-09,2026-11-09
+2308,1270,moes-tvet,JVTI,"Johnes Vocational Training Institute","Skills Development Centre",Registered,Private,"Vocational Education and Training",TVET/02/P24006,,Mukono,2026-11-09,2026-11-09
+2309,1134,moes-tvet,VFAIVI,"Vision For Africa International Vocational Institute","Skills Development Centre",Registered,Private,"Technical and Polytechnic Education and Training",TVET/02/P24019,,Buikwe,2026-11-09,2026-11-09
+2310,1271,moes-tvet,IMLPS,"Institute of Music, Languages and Polytechnic Studies","Vocational Training Institute",Registered,Private,"Vocational Education and Training",TVET/03/P24076,,"Masaka City",2026-11-09,2026-11-09
+2311,1079,moes-tvet,UBT416/UBB272,"KYADONDO TECHNICAL INSTITUTE","Skills Development Centre",Registered,Private,"Vocational Education and Training",TVET/02/P24062,,Wakiso,2026-11-09,2026-11-09
+2312,1272,moes-tvet,LICO,"Vision for Africa Vocational Training Institute - Kasese","Vocational Training Institute",Registered,Private,"Vocational Education and Training",TVET/03/P24037,,Kasese,2026-11-09,2026-11-09
+2313,1273,moes-tvet,SBVTC,"ST.BAKHITA VOCATIONAL TRAINING CENTRE","Vocational Training Institute",Registered,"Faith Based","Vocational Education and Training",TVET/03/P24048,,Agago,2026-11-09,2026-11-09
+2314,1274,moes-tvet,TVET/273/284/01,"Kanyonyore Vocational School","Vocational Training Institute",Registered,Private,"Vocational Education and Training",TVET/03/P24056,,Rwampara,2026-11-09,2026-11-09
+2315,1275,moes-tvet,Iabc,"Innovative Institute of Agriculture, Business and Capacity Building-Arua","Skills Development Centre",Registered,Private,"Vocational Education and Training",TVET/02/P24054,,"Arua City",2026-11-09,2026-11-09
+2316,1276,moes-tvet,PNR,"Pioneer Technical Institute - Iganga","Vocational Training Institute",Registered,Private,"Vocational Education and Training",TVET/03/P24064,,Iganga,2026-11-09,2026-11-09
+2317,1277,moes-tvet,organicvoc.org,"RUCID ORGANIC VOCATIONAL TRAINING INSTITUTE","Vocational Training Institute",Registered,Private,"Vocational Education and Training",TVET/03/P24047,,Mityana,2026-11-09,2026-11-09
+2318,1278,moes-tvet,UBT441,"ARCHBISHOP JANAN LUWUM VOCATIONAL TRAINING INSTITUTE","Vocational Training Institute",Registered,Private,"Vocational Education and Training",TVET/03/P24063,,"Gulu City",2026-11-09,2026-11-09
+2319,1279,moes-tvet,UBT479,"GATEWAY VOCATIONAL INSTITUTE","Skills Development Centre",Registered,Private,"Vocational Education and Training",TVET/02/P24003,,Kitgum,2026-11-09,2026-11-09
+2320,1280,moes-tvet,CCC,"Cross College of Commerce - Koboko","Vocational Training Institute",Registered,Private,"Vocational Education and Training",TVET/03/P24085,,Koboko,2026-11-09,2026-11-09
+2321,1281,moes-tvet,LBVI,"LIBRA VOCATIONAL AND BUSINESS INSTITUTE","Vocational Training Institute",Registered,Private,"Vocational Education and Training",TVET/03/P24086,,Luweero,2026-11-09,2026-11-09
+2322,1282,moes-tvet,HTTC,"Hotel and Tourism Training College",College,Applied,Government,"Business and Social Development Education and Training",UHTTI,,"Jinja City",2026-11-09,2026-11-09
+2323,1283,moes-tvet,PCS/B/144,"Buganda Royal Institute of Business and Technical Education Mengo","Vocational Training Institute",Registered,Private,"Technical and Polytechnic Education and Training",PCS/B/144,,Kampala,2026-11-09,2026-11-09
+2324,101,moes-tvet,"Tororo Co-op","Uganda Co-operative College Tororo",College,Registered,Government,"Business and Social Development Education and Training",35806,,Tororo,2026-11-09,2026-11-09

@@ -1,0 +1,99 @@
+id,register,snapshot_on,source_updated_on,measure,dimension,value,count
+263,nche,2025-04-12,,institutions,total,all,321
+264,nche,2025-04-12,,institutions,category,OTI,190
+265,nche,2025-04-12,,institutions,category,University,60
+266,nche,2025-04-12,,institutions,category,Campus,36
+267,nche,2025-04-12,,institutions,category,ODAI,26
+268,nche,2025-04-12,,institutions,category,"Constituent College",9
+269,nche,2025-04-12,,institutions,accreditationStatus,"Certificate of Classification and Registration",30
+270,nche,2025-04-12,,institutions,accreditationStatus,"Provisional License to Operate as Other Tertiary Institution",103
+271,nche,2025-04-12,,institutions,accreditationStatus,"Provisional License to Operate as University",33
+272,nche,2025-04-12,,institutions,accreditationStatus,"OTI – Registered",57
+273,nche,2025-04-12,,institutions,accreditationStatus,Campuses,36
+274,nche,2025-04-12,,institutions,accreditationStatus,"University - Registered",11
+275,nche,2025-04-12,,institutions,accreditationStatus,"Chartered University",16
+276,nche,2025-04-12,,institutions,accreditationStatus,"Provisional License to Operate as Other Degree Awarding Institution",22
+277,nche,2025-04-12,,institutions,accreditationStatus,"Constituent College",9
+278,nche,2025-04-12,,institutions,accreditationStatus,"Other Degree Awarding Institution - Registered",3
+279,nche,2025-04-12,,institutions,accreditationStatus,"Charter to Other Degree Awarding Institution",1
+280,nche,2025-04-12,,institutions,ownership,Private,231
+281,nche,2025-04-12,,institutions,ownership,Public,90
+282,nche,2025-04-12,,institutions,sector,"Not stated",321
+283,nche,2026-11-09,2026-07-16,institutions,total,all,213
+284,nche,2026-11-09,2026-07-16,institutions,category,ODAI,28
+285,nche,2026-11-09,2026-07-16,institutions,category,University,70
+286,nche,2026-11-09,2026-07-16,institutions,category,OTI,96
+287,nche,2026-11-09,2026-07-16,institutions,category,Campus,19
+288,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"Provisional License to Operate as Other Degree Awarding Institution",20
+289,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"Chartered University",19
+290,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"Provisional License to Operate as University",31
+291,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"Certificate of Classification and Registration",11
+292,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"Provisional License to Operate as Other Tertiary Institution",34
+293,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"Public OTI",12
+294,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,Campuses,16
+295,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"Public University",9
+296,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"University with Separate Act",1
+297,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"OTI – Registered",10
+298,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"University - Registered",1
+299,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"Other Degree Awarding Institution - Registered",1
+300,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"Charter to Other Degree Awarding Institution",1
+301,nche,2026-11-09,2026-07-16,institutions,accreditationStatus,"Not stated",47
+302,nche,2026-11-09,2026-07-16,institutions,ownership,"Not stated",191
+303,nche,2026-11-09,2026-07-16,institutions,ownership,Public,22
+304,nche,2026-11-09,2026-07-16,institutions,sector,"Not stated",213
+305,nche,2026-11-09,2026-07-16,programmes,total,all,3703
+306,nche,2026-11-09,2026-07-16,programmes,level,Other,40
+307,nche,2026-11-09,2026-07-16,programmes,level,Diploma,1010
+308,nche,2026-11-09,2026-07-16,programmes,level,Bachelor's,1340
+309,nche,2026-11-09,2026-07-16,programmes,level,Certificate,25
+310,nche,2026-11-09,2026-07-16,programmes,level,Doctorate,194
+311,nche,2026-11-09,2026-07-16,programmes,level,Master's,731
+312,nche,2026-11-09,2026-07-16,programmes,level,"Higher Education Access / Certificate",110
+313,nche,2026-11-09,2026-07-16,programmes,level,"Postgraduate Diploma",253
+314,nche,2026-11-09,2026-07-16,programmes,discipline,Business,847
+315,nche,2026-11-09,2026-07-16,programmes,discipline,Unclassified,108
+316,nche,2026-11-09,2026-07-16,programmes,discipline,"Social and Behavioral Sciences",599
+317,nche,2026-11-09,2026-07-16,programmes,discipline,"Medicine and Health Sciences",390
+318,nche,2026-11-09,2026-07-16,programmes,discipline,"Arts and Humanities",268
+319,nche,2026-11-09,2026-07-16,programmes,discipline,"Physical Sciences and Mathematics",505
+320,nche,2026-11-09,2026-07-16,programmes,discipline,Education,544
+321,nche,2026-11-09,2026-07-16,programmes,discipline,"Life Sciences",188
+322,nche,2026-11-09,2026-07-16,programmes,discipline,Architecture,17
+323,nche,2026-11-09,2026-07-16,programmes,discipline,Engineering,192
+324,nche,2026-11-09,2026-07-16,programmes,discipline,Law,43
+325,nche,2026-11-09,2026-07-16,programmes,discipline,STEM,2
+326,nche,2026-11-09,2026-07-16,programmes,accreditation,Active,3598
+327,nche,2026-11-09,2026-07-16,programmes,accreditation,Inactive,105
+328,nche,2026-11-09,2026-07-16,programmes,tvetLeaning,Review,37
+329,nche,2026-11-09,2026-07-16,programmes,tvetLeaning,Yes,883
+330,nche,2026-11-09,2026-07-16,programmes,tvetLeaning,No,2783
+331,tvet-council,2026-11-09,,institutions,total,all,130
+332,tvet-council,2026-11-09,,institutions,category,"Technical College",34
+333,tvet-council,2026-11-09,,institutions,category,"Vocational Training Institute",82
+334,tvet-council,2026-11-09,,institutions,category,"Skills Development Centre",14
+335,tvet-council,2026-11-09,,institutions,accreditationStatus,"Not stated",130
+336,tvet-council,2026-11-09,,institutions,ownership,Private,130
+337,tvet-council,2026-11-09,,institutions,sector,Health,10
+338,tvet-council,2026-11-09,,institutions,sector,Non-Health,120
+339,tvet-council,2026-11-09,,programmes,total,all,926
+340,tvet-council,2026-11-09,,programmes,level,Diploma,130
+341,tvet-council,2026-11-09,,programmes,level,Certificate,639
+342,tvet-council,2026-11-09,,programmes,level,"Not stated",157
+343,tvet-council,2026-11-09,,programmes,discipline,Health,23
+344,tvet-council,2026-11-09,,programmes,discipline,Non-Health,903
+345,tvet-council,2026-11-09,,programmes,accreditation,Active,926
+346,tvet-council,2026-11-09,,programmes,tvetLeaning,"Not stated",926
+347,moes-tvet,2026-11-09,,institutions,total,all,168
+348,moes-tvet,2026-11-09,,institutions,category,College,18
+349,moes-tvet,2026-11-09,,institutions,category,"Vocational Training Institute",99
+350,moes-tvet,2026-11-09,,institutions,category,"Skills Development Centre",49
+351,moes-tvet,2026-11-09,,institutions,category,"Not stated",1
+352,moes-tvet,2026-11-09,,institutions,category,"Technical School",1
+353,moes-tvet,2026-11-09,,institutions,accreditationStatus,Registered,167
+354,moes-tvet,2026-11-09,,institutions,accreditationStatus,Applied,1
+355,moes-tvet,2026-11-09,,institutions,ownership,Government,146
+356,moes-tvet,2026-11-09,,institutions,ownership,"Faith Based",5
+357,moes-tvet,2026-11-09,,institutions,ownership,Private,17
+358,moes-tvet,2026-11-09,,institutions,sector,"Technical and Polytechnic Education and Training",30
+359,moes-tvet,2026-11-09,,institutions,sector,"Vocational Education and Training",127
+360,moes-tvet,2026-11-09,,institutions,sector,"Business and Social Development Education and Training",11
