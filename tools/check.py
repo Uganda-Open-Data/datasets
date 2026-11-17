@@ -16,12 +16,12 @@ import re
 import sys
 from pathlib import Path
 
-from frictionless import validate
+from frictionless import FrictionlessException, Package
 
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 REQUIRED = ["name", "title", "description", "version", "licenses", "sources", "resources", "portal"]
-REQUIRED_PORTAL = ["theme", "keywords", "changelog", "key"]
+REQUIRED_PORTAL = ["theme", "keywords", "changelog"]
 LICENCES = {"CC0-1.0", "PDDL-1.0", "CC-BY-4.0", "ODC-BY-1.0"}
 NEEDS_APPROVAL = {"ODbL-1.0", "CC-BY-SA-4.0"}
 WARN_BYTES = 20 * 1024 * 1024
@@ -66,6 +66,10 @@ def _package_errors(folder: Path):
         if key not in portal:
             yield f"portal.{key} is missing"
 
+    tables = [r for r in package.get("resources", []) if str(r.get("path", "")).endswith(".csv")]
+    if "key" not in portal and not all(r.get("schema", {}).get("primaryKey") for r in tables):
+        yield "portal.key is missing (or give every table a schema.primaryKey)"
+
     for licence in package.get("licenses", []):
         name = licence.get("name")
         if name in NEEDS_APPROVAL and not portal.get("licenceApprovedBy"):
@@ -91,18 +95,32 @@ def _package_errors(folder: Path):
             yield f"resources[{i}] path {resource.get('path')} must be a file under data/"
             continue
 
+        if file.suffix == ".geojson":
+            if not _is_feature_collection(file):
+                yield f"{file.name} is not a GeoJSON FeatureCollection"
+            continue
+
         size = file.stat().st_size
         if size > MAX_BYTES:
             yield f"{file.name} is {size // 1024 // 1024} MB; files over 50 MB go in release assets"
         elif size > WARN_BYTES:
             print(f"warning: {folder.name}: {file.name} is {size // 1024 // 1024} MB", file=sys.stderr)
 
-        if "key" in portal:
-            yield from _duplicate_keys(file, portal["key"])
+        key = resource.get("schema", {}).get("primaryKey") or portal.get("key")
+        if key:
+            yield from _duplicate_keys(file, [key] if isinstance(key, str) else key)
         yield from scan_personal_data(file)
 
     if resources_ok:
-        yield from _frictionless_errors(path)
+        yield from _frictionless_errors(folder, package)
+
+
+def _is_feature_collection(file: Path) -> bool:
+    try:
+        data = json.loads(file.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, UnicodeDecodeError):
+        return False
+    return isinstance(data, dict) and data.get("type") == "FeatureCollection" and isinstance(data.get("features"), list)
 
 
 def _duplicate_keys(file: Path, key: list[str]):
@@ -121,8 +139,16 @@ def _duplicate_keys(file: Path, key: list[str]):
                 seen[value] = row_number
 
 
-def _frictionless_errors(path: Path):
-    report = validate(str(path))
+def _frictionless_errors(folder: Path, package: dict):
+    # Frictionless validates the tables; GeoJSON layers are checked above.
+    tables = [r for r in package.get("resources", []) if str(r.get("path", "")).endswith(".csv")]
+    if not tables:
+        return
+    try:
+        report = Package({**package, "resources": tables}, basepath=str(folder)).validate()
+    except FrictionlessException as error:
+        yield f"datapackage.json: {error.error.message}"
+        return
     for task in report.tasks:
         name = Path(task.name or task.place).name
         for error in task.errors:

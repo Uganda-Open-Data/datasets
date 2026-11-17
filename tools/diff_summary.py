@@ -2,7 +2,7 @@
 
     python tools/diff_summary.py origin/main >> "$GITHUB_STEP_SUMMARY"
 
-Rows are matched on the columns in the dataset's portal.key, so a changed
+Rows are matched on each table's primaryKey (or the dataset's portal.key), so a changed
 name shows as one changed row rather than one removed and one added.
 """
 
@@ -16,6 +16,15 @@ from pathlib import Path
 
 def _rows(text: str, key: list[str]) -> dict[str, dict]:
     return {"|".join(row[field] for field in key): row for row in csv.DictReader(io.StringIO(text))}
+
+
+def key_for(package: dict, path: str) -> list[str] | None:
+    """The columns that identify a row of one table: its primaryKey, else portal.key."""
+    for resource in package.get("resources", []):
+        if resource.get("path") == path:
+            key = resource.get("schema", {}).get("primaryKey") or package.get("portal", {}).get("key")
+            return [key] if isinstance(key, str) else key
+    return None
 
 
 def summarise(old_csv: str | None, new_csv: str, key: list[str]) -> dict:
@@ -48,7 +57,7 @@ def main(base_ref: str) -> int:
         if not file.exists():
             continue
         package = json.loads((file.parent.parent / "datapackage.json").read_text(encoding="utf-8"))
-        key = package.get("portal", {}).get("key")
+        key = key_for(package, str(file.relative_to(file.parent.parent)))
         if not key:
             continue
         try:
